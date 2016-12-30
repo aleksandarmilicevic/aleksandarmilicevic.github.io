@@ -1,0 +1,86 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+  <head>
+
+<!-- Latest compiled and minified CSS -->
+<link rel="stylesheet" href="../bootstrap.min.css"> 
+<link rel="stylesheet" href="../style_new.css"> 
+<link rel="stylesheet" href="upr.css"> 
+
+<!-- Optional theme -->
+<link rel="stylesheet" href="../bootstrap-theme.min.css">
+
+    <title></title>
+  </head>
+
+  <body>
+<div class="container">
+<h3>
+Event-driven paradigm for ROS (Robot Operating System)
+</h3>
+
+
+<table class="table">
+<tr><td><strong>topics</strong></td>
+    <td> robot programming, event-driven programming, framework
+               design.</td>
+</tr>
+
+<tr><td><strong>goal</strong></td>
+    <td> Port an existing framework for event-driven programming
+             to ROS (Robot Operating System).</td>
+</tr>
+
+<tr><td><strong>technologies</strong></td>
+    <td> ROS, Python or Java.</td>
+</tr>
+
+<tr><td><strong>members</strong></td>
+    <td>Angel Yu</td>
+</tr>
+
+</table>
+
+<p>Robot programming for novice users is becoming increasingly
+attractive.  Most robot programs are inherently distributed and
+event-driven, while distributed programming is, however, often
+difficult and error-prone even for experienced programmers. </p>
+
+<p>We have designed an approach for event-driven programming of
+general-purpose distributed systems which allows the programmer to
+have a simple sequential semantics and a unified model of the system
+as a whole.  Consequently, the programmer does not have to worry about
+data consistency and concurrency bugs, as our runtime framework is in
+charge of synchronizing all requests and keeping all nodes updated.
+We have implemented a prototype of this approach for client-server
+applications in Java.</p>
+
+<p>As Java is not commonly used for robot programming, the main goal
+of this UROP project is to port our existing Java implementation to <a
+href="http://www.ros.org">ROS</a>, and further adapt it to the
+particular needs of robot programmers.  ROS already provides many
+high-level concepts for message passing communication between the
+nodes, so implementing our event-driven concepts for ROS should be
+much simpler than doing the same for Java.  The most interesting part
+of this project should be learning about ROS, identifying common
+programming tasks in robotics, and re-implementing those tasks as
+examples using the new event-driven framework.</p>
+
+<p>This project is most suitable for a student interested in robotics,
+and learning more about robot programming in ROS.  ROS officially
+supports Python as one of the front-end programming languages, but
+also has "experimental" front-end for a subset of Java (compatible
+with Java for Android), so the student will get to choose between
+those two target platforms.</p>
+
+    <hr>
+    <address><a href="mailto:aleks@scooby-doo.csail.mit.edu">Aleksandar Milicevic</a></address>
+<!-- Created: Wed Sep 18 15:53:43 EDT 2013 -->
+<!-- hhmts start -->
+Last modified: Thu Oct  3 18:17:19 EDT 2013
+<!-- hhmts end -->
+
+</div>
+
+  </body>
+</html>

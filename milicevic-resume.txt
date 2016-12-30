@@ -1,0 +1,158 @@
+Aleksandar Milicevic
+====
+
+Computer Science and Artificial Intelligence Laboratory  
+Massachusetts Institute of Technology  
+32 Vassar St, Office G706, Cambridge, MA 02139, USA
+
+phone: (617) 253-4507  
+e-mail: aleks@csail.mit.edu  
+web: http://people.csail.mit.edu/aleks  
+
+---
+
+### Research Interests
+
+Declarative programming, specification languages, executable
+specifications, programming languages, connecting high-level
+specifications with low-level code, software verification, program
+synthesis, program analysis, software engineering.
+
+### Education
+
+Ph.D. in Computer Science Candidate [expected graduation date: May 2015]
+  * Massachusetts Institute of Technology, Cambridge, MA, USA
+  * Advisor: Prof. Daniel Jackson
+
+M.S. in Computer Science [September 2010]
+  * Massachusetts Institute of Technology, Cambridge, MA, USA
+  * Topic: Executable Specifications for Java Programs (advised by Prof. Daniel Jackson)
+
+B.Sc. in Computer Science [November 2007]
+  * School of Electrical Engineering, Belgrade, Serbia
+  * Topic: Parallel Test Generation and Execution with Korat (advised by Prof. Dragan Milicev)  
+
+### Academic Experience
+
+Graduate Student [August, 2008 - present]
+  * Massachusetts Institute of Technology, Cambridge, MA, USA
+
+Teaching Assistant [Spring 2009, Fall 2009] 
+  * "6.005 Elements of Software Construction": gave recitations, graded problem sets and projects.
+
+### Research Internships
+
+Microsoft Research, Redmond, WA, USA [Jun 2011 -- Aug 2011]
+  * Worked with Rustan Leino on program synthesis from first-order
+    declarative specifications.
+
+Microsoft Research Cambridge, Cambridge, UK [Jun 2009 -- Aug 2009]
+  * Worked with Hillel Kugler on analyzing and executing Live Sequence
+    Charts using SMT.
+
+University of Illinois at Urbana Champaign, Urbana, IL, USA [Aug 2006 -- Sep 2006]
+  * Worked with Darko Marinov on bounded-exhaustive test input
+    generation.
+
+### Industry Experience
+
+Software Engineer at Serbian Object Laboratories, Belgrade, Serbia [Mar 2006 -- Aug 2008]
+  * Worked on the development of the [EDMT Server](www.bmmsoft.com). 
+  * Technologies used: WebWork, Java Servlets, WS,
+    SOAP, JSP, HTML, CSS, JS, AJAX, with Sybase IQ database.
+
+Software Engineering Intern at Google Inc., New York, NY, USA [Jul 2007 -- Sep 2007]
+  * Worked with Nemanja Petrovic on decoding barcodes from images
+    taken with a cell phone.
+
+### Research Projects
+
+  * [Alloy*](http://alloy.mit.edu/alloy/hola/): a general-purpose
+    higher-order relational constraint solver.
+
+  * [aRby](http://people.csail.mit.edu/aleks/arby): an embedding of
+    Alloy in Ruby.
+
+  * [Squander](http://people.csail.mit.edu/aleks/squander): a unified
+    environment for execution of declarative specification (written in
+    first-order relational logic) and imperative Java code.
+
+  * [Jennisys](http://research.microsoft.com/en-us/projects/jennisys):
+    a programming language and a synthesis tool from declarative
+    first-order specifications to imperative code.
+
+  * [The Alloy Analyzer](http://alloy.mit.edu): an automated model
+    finder for a first-order relational specification language.
+  
+  * [Korat](http://korat.sourceforge.net): a tool for
+    bounded-exhaustive generation of test inputs based on complex
+    constraints the inputs must satisfy.
+
+  * [Puzzler](http://people.csail.mit.edu/jnear/puzzler): an automated
+    solver for natural-language logic puzzles (in the style of
+    Einstein's Puzzle).
+
+### Publications
+
+  * A. Milicevic, J. P. Near, E. Kang, and D. Jackson. 
+    Alloy*: A Higher-Order Relational Constraint Solver
+    MIT CSAIL Technical Report, September 2014.
+
+  * A. Milicevic, and D. Jackson. 
+    Preventing Arithmetic Overflows in Alloy (extended journal version), 
+    Science of Computer Programming, May 2014.
+
+  * A. Milicevic, I. Efrati, and D. Jackson.
+    aRby---An Embedding of Alloy in Ruby, 
+    ABZ 2014, Toulouse, France. 
+
+
+  * A. Milicevic, M. Gligoric, D. Marinov, and D. Jackson. 
+    Model-Based, Event-Driven Programming Paradigm for Interactive Web Applications, 
+    Onward! 2013, Indianapolis, IN, USA
+
+  * K. R. M. Leino, and A. Milicevic. 
+    Program Extrapolation with Jennisys, 
+    Splash 2012, Tucson, AZ, USA.
+
+  * A. Milicevic, and D. Jackson. 
+    Preventing Arithmetic Overflows in Alloy, 
+    ABZ 2012, Pisa, Italy.  
+
+  * A. Milicevic, D. Rayside, K. Yessenov, and D. Jackson. 
+    Unifying Execution of Imperative and Declarative Code, 
+    ICSE 2011, Waikiki, Honolulu, Hawaii.
+
+  * J. P. Near, A. Milicevic, E. Kang, D. Jackson. 
+    A Lightweight Approach to Construction and Evaluation of a Dependability Case,
+    ICSE 2011, Waikiki, Honolulu, Hawaii.
+
+  * A. Milicevic, and H. Kugler. 
+    Model Checking with SMT and Theory of Lists, 
+    3rd NASA Formal Method Symposium (NFM 2011), Pasadena, CA, USA.
+
+  * A. Milicevic. 
+    Executable Specifications for Java Programs,
+    Massachusetts Institute of Technology, Master Thesis, September 2010.
+
+  * D. Rayside, A. Milicevic, K. Yessenov, G. Dennis, and D. Jackson. 
+    Agile Specifications,
+    OOPSLA Onward! 2009 (short paper), Orlando, FL, USA.
+
+  * D. Rayside, Z. Benjamin, J. Near, R. Sing, A. Milicevic, and D. Jackson. 
+    Equality and Hashing for (almost) Free: Generating Implementations from Abstraction Functions, 
+    ICSE 2009, Vancouver, Canada.
+
+  * S. Misailovic, A. Milicevic, N. Petrovic, S. Khurshid, and D. Marinov. 
+    Parallel Test Generation and Execution with Korat,
+    ESEC/FSE 2007, Dubrovnik, Croatia.
+
+  * A. Milicevic, S. Misailovic, D. Marinov, and S. Khurshid. 
+    Korat: A Tool for Generating Structurally Complex Test Inputs, 
+    ICSE Demo 2007, Minneapolis, MN, USA.
+
+  * S. Misailovic, A. Milicevic, S. Khurshid, and D. Marinov.
+    Generating Test Inputs for Fault-Tree Analyzers using Imperative Predicates,
+    STEP 2007, Memphis, TN, USA
+
+

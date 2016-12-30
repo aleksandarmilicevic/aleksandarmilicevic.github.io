@@ -1,0 +1,241 @@
+@CHARSET "UTF-8";
+
+body {
+  background-color: #efefef;
+}
+
+address {
+  margin-bottom: 0px;
+}
+
+.container {
+  max-width: 960px;
+  background-color: #ffffff;
+  border: 1px solid #787878;
+  margin-top: 5px;
+  margin-bottom: 5px; 
+}
+
+.page-header {
+  border-color: #cdcdcd;
+}
+
+hr {
+  border-color: #cdcdcd;
+}
+
+h4.panel-title {
+  cursor: pointer; 
+}
+
+/* =================== */
+/*   CISPA      */
+/* =================== */   
+
+#cispa {
+  display: none;
+}
+
+
+/* =================== */
+/*   subtitle css      */
+/* =================== */   
+
+#tabCenter {
+  margin: 0px;
+  padding: 0px;
+  position: relative;
+  top: -1px;
+}
+
+/* =================== */
+/*     footer css      */
+/* =================== */   
+
+p.myFooter { 
+  border-top: 2px #787878 solid; 
+  text-align: right;
+} 
+
+/* ====================== */
+/*   home_content css            */
+/* ====================== */   
+
+#myPicture {
+  /* float: left; */
+  /* margin-right: 10px; */
+  margin-bottom:5px;
+
+  background-image: url('https://1.gravatar.com/avatar/52263f4f0ad7eefd3464de854f4828f2?d=https%3A%2F%2Fidenticons.github.com%2F1836912b3eebe2f842af47a1a1db2ec4.png&s=200');
+  background-position-x: -10px;
+  display: block;
+  margin-right: 40px;
+  margin-left: 10px;
+}
+
+.outerBioTable {
+    
+}
+
+.outerBioTable td {
+    vertical-align: top;
+}
+
+.myBioTable {
+  margin: 5px 10px 5px 10px;
+}
+
+.myBioTable tr {
+  
+}
+
+.myBioTable td {
+  vertical-align: top;
+  padding: 2px 2px 2px 2px;
+  border-bottom: 1px solid #cdcdcd;
+  padding: 2px 10px 2px 10px;
+}
+
+td.first {
+  font-weight: bold;
+}
+
+td.secnd {
+  padding-left: 20px;
+}
+
+.jobtbl td.fst {
+  padding-left: 10px;
+  width: 80px;
+}
+
+ul.lst li {
+  margin-bottom:20px;
+}
+
+ul.scnd li {
+  margin-bottom:2px;
+}
+
+/* ========== CV ========== */
+
+#cv_content {
+  width: 100%;
+}
+
+#cv_content .subtitle {
+  border-left: 1px #787878 solid;
+  border-top: 1px #787878 solid;
+  border-right: 2px #787878 solid;
+  border-bottom: 2px #787878 solid;
+  background: #C0C0A8 no-repeat left; /*DFD4B5;/*#ededed;*/
+  color: #232323;
+  letter-spacing: 1.5px;
+  font-weight: bold;
+  padding: 2px 10px 2px 25px;
+  margin: 15px 0px 5px 0px;
+  vertical-align: middle;
+  cursor: pointer;
+}
+
+.strong {
+  font-weight: bold;
+  font-style : normal;
+}
+
+.strong a {
+  color: black;
+}
+
+.extra.strong {
+
+}
+
+
+.paper-author {
+  font-weight: normal;
+}
+
+.paper-title  {
+  /* text-decoration: underline; */
+  font-weight: bold;
+  /* color: #6D0D18; */
+}
+
+.abstract, .bibtex, .fulltext, .slides {
+  padding-right: 10px;
+}
+
+.abstract a, .bibtex a, .fulltext a, .slides a {
+  /*color: #6D0D18;*/
+}
+
+
+.conf-name {
+  font-style: italic;
+}
+
+.sublist {
+  margin: 2px 2px 2px 2px;
+}
+
+.date {
+  font-size: 95%; 
+  color: #454545;
+  float: right;
+}
+
+.sublistHeading {
+  font-style: normal;
+  font-weight: bold;
+  color: #343434;
+}
+
+.downloads_heading  {
+  font-size: 14px;
+  font-weight: bold;
+  color: black;
+  background-color: #dedede;
+  border-top: 1px solid black;
+  border-bottom: 1px solid black;
+  margin: 30px 0px 5px 0px;
+  padding: 3px 5px 3px 5px;
+  
+}
+
+.downloads_outer_table {
+  width: 100%;  
+}
+
+.downloads_outer_table td.icon_col {
+  width: 100px;  
+  padding-top: 15px;
+}
+
+.downloads_inner_table {
+  width: 100%;
+  margin-left: 10px;
+}
+
+.downloads_inner_table td {
+  border-bottom: 1px dotted black;
+}
+
+.downloads_inner_table td.left_col {
+  font-weight: bold;
+  white-space: nowrap;
+  width: 164px;
+}
+
+table.table td.left {
+  width: 145px;
+}
+
+p {
+  padding: 5px;
+}
+
+.task {
+  background-color: #dedede;
+  border: 1px solid black;
+}

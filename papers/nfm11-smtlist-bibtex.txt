@@ -1,0 +1,16 @@
+@incollection {springerlink:10.1007/978-3-642-20398-5_21,
+   author = {{Milicevic, Aleksandar and Kugler, Hillel}},
+   affiliation = {{Massachusetts Institute of Technology (MIT), Cambridge, MA, USA}},
+   title = {{Model Checking Using SMT and Theory of Lists}},
+   booktitle = {NASA Formal Methods},
+   series = {Lecture Notes in Computer Science},
+   editor = {Bobaru, Mihaela and Havelund, Klaus and Holzmann, Gerard and Joshi, Rajeev},
+   publisher = {Springer Berlin / Heidelberg},
+   isbn = {978-3-642-20397-8},
+   keyword = {Computer Science},
+   pages = {282-297},
+   volume = {6617},
+   url = {http://dx.doi.org/10.1007/978-3-642-20398-5_21},
+   note = {10.1007/978-3-642-20398-5_21},
+   year = {2011}
+}

@@ -1,0 +1,12 @@
+We present aRby---an embedding of the Alloy language in Ruby---and
+demonstrate the benefits of having a declarative modeling language
+(backed by an automated solver) embedded in a traditional
+object-oriented imperative programming language.  This approach aims
+to bring these two distinct paradigms (imperative and declarative)
+together in a novel way.  We argue that having the other paradigm
+available within the same language is beneficial to both the modeling
+community of Alloy users and the object-oriented community of Ruby
+programmers.  In this paper, we primarily focus on the benefits for
+the Alloy community, namely, how aRby provides elegant solutions to
+several well-known, outstanding problems: (1) mixed execution, (2)
+specifying partial instances, (3) staged model finding.

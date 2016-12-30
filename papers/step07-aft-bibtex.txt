@@ -1,0 +1,7 @@
+@INPROCEEDINGS{Misailovic07generatingtest,
+    author = {Sasa Misailovic and Aleksandar Milicevic and Sarfraz Khurshid and Darko Marinov},
+    title = {Generating test inputs for fault-tree analyzers using imperative predicates},
+    booktitle = {IN THE WORKSHOP ON ADVANCES AND INNOVATIONS IN SYSTEMS TESTING (STEP 2007},
+    year = {2007},
+    publisher = {}
+}

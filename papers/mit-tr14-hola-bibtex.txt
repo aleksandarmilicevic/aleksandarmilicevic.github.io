@@ -1,0 +1,7 @@
+@techreport{mit-csail-tr-2014-018,
+  title={{Alloy*: A Higher-Order Relational Constraint Solver}},
+  author={Milicevic, Aleksandar and Near, Joseph P. and Kang, Eunsuk and Jackson, Daniel},
+  year={2014},
+  url = {http://hdl.handle.net/1721.1/89157},
+  institution={MIT-CSAIL-TR-2014-018, Massachusetts Institute of Technology}
+}

@@ -1,0 +1,11 @@
+In a bounded analysis, arithmetic operators become partial, and a
+different semantics becomes necessary. One approach, mimicking
+programming languages, is for overflow to result in wrap-around.
+Although easy to implement, wrap-around produces unexpected
+counterexamples that do not correspond to cases that would arise in
+the unbounded setting. This paper describes a new approach,
+implemented in the latest version of the Alloy Analyzer, in which
+instances that would involve overflow are suppressed, and
+consequently, spurious counterexamples are eliminated. The key idea
+is to interpret quantifiers so that bound variables range only over
+values that do not cause overflow.

@@ -1,0 +1,17 @@
+This paper presents a case study on how Korat can be used in system
+testing, specifically in testing a large fault-tree analyzer developed
+for NASA. A fault-tree analyzer takes as input a fault tree that
+models how combinations of failures in the components of a system
+produce overall failures of the system. Testing a fault-tree analyzer
+requires generating fault trees. Korat is a previously developed
+testing tool that automates generation of structurally complex test
+inputs. Fault trees are structural in that they can be represented as
+graphs, and the nodes in the graphs need to satisfy certain complex
+constraints. Korat allows the user to express these constraints in
+widely used imperative programming languages such as Java. Previous
+research has shown how to test a fault-tree analyzer using another
+testing tool that requires the user to express constraints in a
+declarative language. This paper compares these two approaches. The
+results show that Korat generates a larger number of inputs but does
+not prune out non-equivalent inputs and thus can generate inputs that
+reveal errors in the system under test.

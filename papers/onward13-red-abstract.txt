@@ -1,0 +1,11 @@
+Applications are increasingly distributed and event-driven. Advances
+in web frameworks have made it easier to program standalone servers
+and their clients, but these applications remain hard to write. A
+model-based programming paradigm is proposed that allows a programmer
+to represent a distributed application as if it were a simple
+sequential program, with atomic actions updating a single, shared
+global state.  A runtime environment executes the program on a
+collection of clients and servers, automatically handling (and hiding
+from the programmer) complications such as network communication
+(including server push), serialization, concurrency and races,
+persistent storage of data, and queuing and coordination of events.

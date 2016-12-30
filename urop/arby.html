@@ -1,0 +1,108 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+  <head>
+
+<!-- Latest compiled and minified CSS -->
+<link rel="stylesheet" href="../bootstrap.min.css"> 
+<link rel="stylesheet" href="../style_new.css"> 
+<link rel="stylesheet" href="upr.css"> 
+
+<!-- Optional theme -->
+<link rel="stylesheet" href="../bootstrap-theme.min.css">
+
+    <title></title>
+  </head>
+
+  <body>
+<div class="container">
+<h3><b>aRby:</b> Domain-specific language for Alloy embedded in Ruby</h3>
+
+
+<table class="table">
+<tr><td class="left"><strong>topics</strong></td>
+    <td> programming language design, symbolic execution, formal
+              language semantics, first-order logic, constraint
+              solving, parsing.</td>
+</tr>
+
+<tr><td class="left"><strong>goal</strong></td>
+    <td> Design, implement, and formalize an embedded
+            domain-specific language for writing and analyzing Alloy
+            models directly in Ruby.</td>
+</tr>
+
+<tr><td class="left"><strong>technologies</strong></td>
+    <td> Ruby, Alloy.</td>
+</tr>
+
+<tr><td class="left"><strong>past members</strong></td>
+    <td>Ido Efrati</td>
+</tr>
+
+<tr><td class="left"><strong>docs</strong></td>
+    <td><a href="arby-doc.pdf">Preliminary documentation</a></td>
+</tr>
+
+</table>
+
+<p><a href="http://alloy.mit.edu" title="Alloy---first-order
+relational model finder">Alloy</a> is a first-order, relational,
+modeling language.  Alloy is declarative (based on logic), and as
+such, it is not executable per se; it is instead used primarily to
+formally model systems for the purpose of checking various logical
+properties against them.  Being purely declarative, however, makes
+a number of tasks difficult or impossible.</p>
+
+<p>aRby---an embedding of Alloy in Ruby---demonstrates the benefits of
+having a declarative modeling language (backed by an automated solver)
+embedded in a traditional object-oriented imperative programming
+language.  aRby aims to bring the two opposing paradigms
+(imperative and declarative) closer together in a novel and unique
+way. We show that having the other paradigm available within the same
+language is beneficial to both the modeling community of Alloy users
+and the object-oriented community of Ruby programmers. aRby provides
+elegant solutions to several well-known, outstanding Alloy problems:
+(1) mixed execution, (2) specifying partial instances, (3) staged
+model finding.</p>
+
+<!-- Most of Alloy's expressive power, however, -->
+<!-- comes from its relational base and its relational operators, which, in -->
+<!-- contrast, can be efficiently executable in the context of -->
+<!-- object-oriented programs.  Even the first-order quantifiers ("all" and -->
+<!-- "exists") can be executed using a straightforward iterative search -->
+<!-- over the bounded domains of quantified variables, which can be -->
+<!-- appropriate when the domain is small and/or the constraints are -->
+<!-- simple. -->
+
+<!-- <p>The main goal of this project is to design a language for writing -->
+<!-- Alloy models directly in Ruby.  The idea is to find a -->
+<!-- middle ground and have a single language with two execution modes: -->
+<!-- symbolic (translates to Alloy) and concrete (executes directly inside -->
+<!-- the Ruby interpreter).  Such a language could be used either (1) as a -->
+<!-- modeling language (for writing complex models in logic for the purpose -->
+<!-- of formal analysis, but having a full-blown Ruby for any -->
+<!-- pre/post-processing), (2) as an imperative OO programming language -->
+<!-- inside Ruby, with added benefits of runtime checks of simple -->
+<!-- properties, or (3) anywhere in between.</p> -->
+
+<p class="task">We have already implemented a working prototype.  The student
+joining this project would work on exploring some exciting new
+posibilities this new paradigm (of using imperative code to produce
+declarative specifications) enables.  This project spans across many
+topics of programming language research (listed above; familiarity is
+by no means a prerequisite), and being involved in such a broad
+project would be of great benefit to someone interested in pursuing
+graduate education in the area of programming languages and program
+analysis.</p>
+
+    <hr>
+    <address><a href="mailto:aleks@scooby-doo.csail.mit.edu">Aleksandar Milicevic</a></address>
+<!-- Created: Wed Sep 18 15:53:43 EDT 2013 -->
+<!-- hhmts start -->
+Last modified: Mon Feb 17 16:37:37 EST 2014
+<!-- hhmts end -->
+
+</div>
+
+  </body>
+</html>

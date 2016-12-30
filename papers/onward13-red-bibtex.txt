@@ -1,0 +1,9 @@
+@inproceedings{milicevic13-red,
+ author = {Milicevic, Aleksandar and Jackson, Daniel and Gligoric, Milos and Marinov, Darko},
+ title = {{Model-Based, Event-Driven Programming Paradigm for Interactive Web Applications}},
+ series = {Onward! '13},
+ year = {2013},
+ location = {Indianapolis, Indiana, USA},
+ publisher = {ACM},
+ keywords = {model-based; event-driven; distributed; interactive; web applications; declarative programming; automatic programming; software design},
+} 

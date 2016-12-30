@@ -1,0 +1,7 @@
+@article{milicevic2014preventing,
+  title={Preventing arithmetic overflows in Alloy},
+  author={Milicevic, Aleksandar and Jackson, Daniel},
+  journal={Science of Computer Programming},
+  year={2014},
+  publisher={Elsevier}
+}

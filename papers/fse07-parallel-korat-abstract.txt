@@ -1,0 +1,22 @@
+We present novel algorithms for parallel testing of code that takes
+structurally complex test inputs. The algorithms build on the Korat
+algorithm for constraint-based generation of structurally complex test
+inputs. Given an imperative predicate that specifies the desired
+structural constraints and a finitization that bounds the desired
+input size, Korat performs a systematic search to generate all test
+inputs (within the bounds) that satisfy the constraints. We present
+how to generate test inputs with a parallel search in Korat and how to
+execute test inputs in parallel, both off-line (when the inputs are
+saved on disk) and on-line (when execution immediately follows
+generation).
+
+The inputs that Korat generates enable bounded-exhaustive testing that
+checks the code under test exhaustively for all inputs within the
+given bounds. We also describe a novel methodology for reducing the
+number of equivalent inputs that Korat can generate. Our development
+of parallel Korat and the methodology for reducing equivalent inputs
+are motivated by testing an application developed at Google. The
+experimental results on running parallel Korat across up to 1024
+machines on the Google's infrastructure show that parallel test
+generation and execution can achieve significant speedup, up to 543.55
+times.

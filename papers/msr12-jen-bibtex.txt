@@ -1,0 +1,11 @@
+@techreport{krml219,
+  title={{Program Extrapolation with Jennisys}},
+  author={Leino, K. Rustan M. and Milicevic, Aleksandar},
+  year={2012},
+  month={February},
+  institution={Microsoft Research},
+  url={http://research.microsoft.com/apps/pubs/default.aspx?id=158573},
+  publisher={Microsoft Technical Report},
+  address={Redmond, WA, USA},
+  keywords={program synthesis, programming languages},
+}

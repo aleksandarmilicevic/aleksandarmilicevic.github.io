@@ -1,0 +1,18 @@
+A main idea underlying bounded model checking is to limit the length
+of the potential counter-examples, and then prove properties for the
+bounded version of the problem. In software model checking, that means
+that only program traces up to a given length are
+considered. Additionally, the s input space must be made finite by
+defining bounds for all input parameters. To ensure the finiteness of
+the program traces, these techniques typically require that all loops
+are explicitly unrolled some constant number of times. Here, we show
+how to avoid explicit loop unrolling by using the SMT Theory of Lists
+to model feasible, potentially unbounded program traces. We argue that
+this approach is easier to use, and, more importantly, increases the
+confidence in verification results over the typical bounded
+approach. To demonstrate the feasibility of this idea, we implemented
+a fully automated prototype software model checker and verified
+several example algorithms.  We also applied our technique to a non
+software model-checking problem from biology -- we used it to analyze
+and synthesize correct executions from scenario-based requirements in
+the form of Live Sequence Charts.

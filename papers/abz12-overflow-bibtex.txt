@@ -1,0 +1,14 @@
+@incollection{abz12-overflow,
+  year={2012},
+  isbn={978-3-642-30884-0},
+  booktitle={Abstract State Machines, Alloy, B, VDM, and Z},
+  volume={7316},
+  series={Lecture Notes in Computer Science},
+  editor={Derrick, John and Fitzgerald, John and Gnesi, Stefania and Khurshid, Sarfraz and Leuschel, Michael and Reeves, Steve and Riccobene, Elvinia},
+  doi={10.1007/978-3-642-30885-7_8},
+  title={Preventing Arithmetic Overflows in Alloy},
+  url={http://dx.doi.org/10.1007/978-3-642-30885-7_8},
+  publisher={Springer Berlin Heidelberg},
+  author={Milicevic, Aleksandar and Jackson, Daniel},
+  pages={108-121}
+}

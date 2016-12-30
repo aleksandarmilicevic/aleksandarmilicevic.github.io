@@ -1,0 +1,108 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+  <head>
+
+<!-- Latest compiled and minified CSS -->
+<link rel="stylesheet" href="../bootstrap.min.css"> 
+<link rel="stylesheet" href="../style_new.css"> 
+<link rel="stylesheet" href="upr.css"> 
+
+<!-- Optional theme -->
+<link rel="stylesheet" href="../bootstrap-theme.min.css">
+
+    <title>SunnyUI: Application agnostic UI builder for a model-based Rails framework</title>
+  </head>
+
+  <body>
+<div class="container">
+<h3>
+<b>SunnyUI</b>: Application agnostic UI builder for a model-based Rails framework
+</h3>
+
+
+<table class="table">
+<tr><td><strong>topics</strong></td>
+    <td> model-based GUI, GUI design, widget library design,
+               interactive/responsive web interface.</td>
+</tr>
+
+<tr><td><strong>goal</strong></td>
+    <td> Design and implement an application-agnostic,
+             Javascript-based front end for an existing model-based
+             web application framework for Rails.</td>
+</tr>
+
+<tr><td><strong>technologies</strong></td>
+    <td> Javascript, Ajax, jQuery, Bootstrap, Ruby on Rails.</td>
+</tr>
+
+<!-- <tr><td><strong>members</strong></td> -->
+<!--     <td>Faith Keza</td> -->
+<!-- </tr> -->
+
+<tr><td><strong>docs</strong></td>
+    <td><a href="../papers/onward13-red.pdf">Onward!13 paper</a></td>
+</tr>
+
+</table>
+
+<p>We have implemented a model-based web framework on top of Ruby on
+Rails for building event-driven interactive web applications.  The
+core of our framework is an information-rich model which enables the
+framework to automatically synthesize many parts of the application at
+runtime, on the fly.  For example, there are no controllers, and the
+programmer does not have to write database migrations, ActiveRecrod
+association ends (reflections), routes, etc.  Furthermore, the
+framework keeps track of all connected clients and the data they are
+displaying, so whenever the value of a piece of data changes, the
+framework immediately propagates that change to all the relevant
+clients (using the "server push" mechanism).  The clients then know
+how to automatically refresh their views (by updating the DOM), thanks
+to our smart views (written as regular templates but data binding
+enabled); as a result, the programmer does not have to write any Ajax
+code to get a responsive, auto-refreshing GUI.</p>
+
+<p class="task">Currently, the programmer has to manually write the
+views for his or her application (which are conceptually no different
+from the standard ERB templates commonly used in Rails applications).
+This part could be automated as well, which is exactly the main
+<u>goal of this UROP project</u>: provide a generic user interface,
+out of the box, directly generated from the core application model,
+which simply allows the user to view and query the current object
+state.  Alternatively, the student may choose to implement a WYSIWYG
+UI builder that lets the programmer quickly design GUIs automatically
+tied to the domain model.</p>
+
+<p>The student joining this project should already be comfortable with
+Javascript, and ideally familiar with some Javascript UI libraries, as
+this project is mostly about designing snappy looking widgets for
+visualizing the application object state.  The most challenging part
+of the project is to come up with a clever, generic, model-based UI,
+preferably customizable so that it can be tweaked and fine tuned
+differently for different concrete applications.</p>
+
+<p>This is not a building a one-off GUI for a given app kind of
+project; rather, this project is about building a set of generic,
+template-based widgets, that reflectively read the application model
+(e.g., "<emph>what are the all different model classes in this
+system?</emph>", "<emph>what are the fields of this particular model
+class and what are their types?</emph>", etc.), dynamically query the
+application state (e.g., "<emph>give me all the instances of this
+class</emph>", "<emph>what is the value of this field in this concrete
+instance</emph>", etc.), and display all that data in a meaningful and
+intuitive way.  Fortunately, all these technical and infrastructural
+problems have already been taken care of, so the student will be able
+to focus solely on being creative and designing a nice general-purpose
+GUI.</p>
+
+    <hr>
+    <address><a href="mailto:aleks@scooby-doo.csail.mit.edu">Aleksandar Milicevic</a></address>
+<!-- Created: Wed Sep 18 15:53:43 EDT 2013 -->
+<!-- hhmts start -->
+Last modified: Mon Feb 17 16:55:58 EST 2014
+<!-- hhmts end -->
+
+</div>
+
+  </body>
+</html>

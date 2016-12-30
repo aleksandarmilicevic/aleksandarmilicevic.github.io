@@ -1,0 +1,8 @@
+@incollection{
+year={2014},
+booktitle={Abstract State Machines, Alloy, B, VDM, and Z},
+series={Lecture Notes in Computer Science},
+title={aRby---An Embedding of Alloy in Ruby},
+publisher={Springer Berlin Heidelberg},
+author={Milicevic, Aleksandar Erfrati, Ido and Jackson, Daniel},
+}
