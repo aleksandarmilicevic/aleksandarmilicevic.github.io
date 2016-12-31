@@ -59,7 +59,7 @@ general.
     _24th ACM SIGSOFT International Symposium on Foundations of Software Engineering ([FSE 2016](http://www.cs.ucdavis.edu/fse2016/)), Seattle, WA, USA, November 2016_ <br/>
     [[abstract](papers/fse16-molly-abstract.txt)], [[full text](http://dl.acm.org/citation.cfm?doid=2950290.2950358)], [[bibtex](papers/fse16-molly-bibtex.txt)]
 
-1. **Alloy\*: A Higher-Order Relational Constraint Solver** <br/>
+ 1. **Alloy\*: A Higher-Order Relational Constraint Solver** <br/>
     A. Milicevic, J. P. Near, E. Kang, and D. Jackson<br/>
     
     - _37th International Conference on Software Engineering ([ICSE 2015](http://2015.icse-conferences.org/)), Florence, Italy, May 2015._<br/>
@@ -67,7 +67,6 @@ general.
 
     - _MIT Technical Report, September 2014 ([MIT-TR-2014-018](http://dspace.mit.edu/handle/1721.1/89157))_ <br/>
       [[abstract](papers/mit-tr14-hola-abstract.txt)] [[full text](papers/mit-tr14-hola.pdf)] [[bibtex](papers/mit-tr14-hola-bibtex.txt)]
-
 
  1. **αRby—An Embedding of Alloy in Ruby** <br/>
     A. Milicevic, Ido Efrati, and D. Jackson <br/>
