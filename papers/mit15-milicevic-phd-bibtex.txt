@@ -1,0 +1,8 @@
+@phdthesis{Milicevic15PhD,
+    author = "Aleksandar Milicevic", 
+    title = {{Advancing Declarative Programming}},
+    school = "MIT",
+    month = May,
+    year = 2015,
+    advisor = "Daniel Jackson",
+}

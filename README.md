@@ -68,6 +68,11 @@ general.
     - _MIT Technical Report, September 2014 ([MIT-TR-2014-018](http://dspace.mit.edu/handle/1721.1/89157))_ <br/>
       [[abstract](papers/mit-tr14-hola-abstract.txt)] [[full text](papers/mit-tr14-hola.pdf)] [[bibtex](papers/mit-tr14-hola-bibtex.txt)]
 
+ 1. **Advancing Declarative Programming** <br/>
+    A. Milicevic <br/>
+    _Massachusetts Institute of Technology, PhD Thesis, May 2015._ <br/>
+    [[slides](papers/mit15-milicevic-phd-slides.pdf)] [[abstract](papers/mit15-milicevic-phd-abstract.txt)] [[full text](papers/mit15-milicevic-phd.pdf)] [[bibtex](papers/mit15-milicevic-phd-bibtex.txt)]
+
  1. **αRby—An Embedding of Alloy in Ruby** <br/>
     A. Milicevic, Ido Efrati, and D. Jackson <br/>
     _International Conference of Alloy, ASM, B, VDM, and Z Users ([ABZ 2014](http://www.irit.fr/ABZ2014/)), Toulouse, France, June 2014._<br/>

@@ -1,0 +1,44 @@
+This thesis attempts to unite and consolidate two large and often
+culturally disjoint programming paradigms: declarative (focusing on
+specifying what a program is supposed to do, e.g., shuffle an array so
+that its elements are ordered) and imperative (detailing how the
+program intention is to be implemented, e.g., by applying the
+QuickSort algorithm).  The ultimate result of such an effort would be
+a unified programming environment in which both paradigms are
+seamlessly integrated, specifications are fully and efficiently
+executable, and programs are written by freely mixing imperative
+statements and declarative specifications.
+
+With the advent of automated constraint solving, executing declarative
+specifications as standalone programs has become feasible.  A number
+of challenges still remain.  To achieve full automation, constraint
+solvers often impose restrictions on specification languages and their
+expressiveness; compromises are also made when integrating a
+(typically logic-based) specification language with a traditional
+procedural programming language; and finally, applicability is usually
+limited to specialized algorithmic domains (for which constraint
+solving is particularly suitable) and programmers comfortable with
+writing formal logic.
+
+This thesis proposes several advances to address these issues.  First,
+a novel constraint solving framework is presented, Alloy*, the first
+of its kind capable of automatically and reliably solving arbitrary
+higher-order formulas (written in standard predicate logic) over
+bounded domains.  Second, a new approach to integrating a
+specification and an implementation language is proposed, where Alloy,
+a relational logic-based modeling and specification language, is
+deeply embedded in Ruby.  The resulting platform, called aRby, uses
+Alloy* as its back end, and serves both as an Alloy modeling
+environment with added Ruby scripting layer around it, and as a Ruby
+programming environment with added executable specifications.  Third,
+the general idea of declarative programming (focusing on what instead
+of how) is applied to web programming, producing SUNNY, a model-based
+reactive web framework with a clear separation between data, events
+(business logic), and security policies.  SUNNY is (1)
+policy-agnostic—allows security policies to be specified individually
+and independently from the rest of the code, (2)
+reactive—automatically prop- agates data updates to all connected
+clients while enforcing the security policies, (3) mostly
+declarative—offers a unified sequential view of the entire distributed
+web system, allowing events to be implemented only in terms of simple
+modifications to the data model.
