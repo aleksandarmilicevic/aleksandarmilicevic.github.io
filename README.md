@@ -52,7 +52,9 @@ general.
  1. **Multi-Representational Security Analysis** <br/>
     E. Kang, A. Milicevic, D. Jackson <br/>
     _24th ACM SIGSOFT Foundations of Software Engineering ([FSE 2016](http://www.cs.ucdavis.edu/fse2016/)), Seattle, WA, USA, November 2016_ <br/>
-    **`(distinguished paper award)`**<br/>
+    ```
+    (distinguished paper award)
+    ```
     [[abstract](papers/fse16-poirot-abstract.txt)], [[full text](http://dl.acm.org/citation.cfm?doid=2950290.2950356)], [[bibtex](papers/fse16-poirot-bibtex.txt)]
     
  1. **Build System with Lazy Retrieval for Java Projects** <br/>
@@ -64,7 +66,9 @@ general.
     A. Milicevic, J. P. Near, E. Kang, and D. Jackson<br/>
     
     - _37th International Conference on Software Engineering ([ICSE 2015](http://2015.icse-conferences.org/)), Florence, Italy, May 2015._<br/>
-      **`(distinguished paper award)`**<br/>
+      ```java
+      "distinguished paper award"
+      ```
       [[slides](papers/icse15-alloystar-slides.pdf)] [[abstract](papers/icse15-alloystar-abstract.txt)] [[full text](papers/icse15-alloystar.pdf)] [[bibtex](papers/icse15-alloystar-bibtex.txt)]
 
     - _MIT Technical Report, September 2014 ([MIT-TR-2014-018](http://dspace.mit.edu/handle/1721.1/89157))_ <br/>
