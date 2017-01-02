@@ -109,12 +109,18 @@ td.secnd {
   width: 80px;
 }
 
-ul.lst li {
+ul.lst li, ol.lst li {
   margin-bottom:20px;
 }
 
 ul.scnd li {
-  margin-bottom:2px;
+  margin-top:10px;
+  margin-bottom:10px;
+}
+
+h2 {
+  margin-top: 10px;
+  margin-bottom: 10px;
 }
 
 /* ========== CV ========== */
@@ -179,11 +185,10 @@ ul.scnd li {
   margin: 2px 2px 2px 2px;
 }
 
-.date {
-  font-size: 95%; 
-  color: #454545;
-  float: right;
-}
+/* .date a { */
+/*   color: black; */
+/*   text-decoration: uderline; */
+/* } */
 
 .sublistHeading {
   font-style: normal;
