@@ -87,7 +87,7 @@ general.
 
  1. **Model-Based, Event-Driven Programming Paradigm for Interactive Web Applications**<br/>
     A. Milicevic, M. Gligoric, D. Marinov, and D. Jackson <br/>
-    _OOPSLA Onward! ([Onward! 2013](http://splashcon.org/2013/component/content/article/628), research paper)_ <br/>
+    _OOPSLA Onward! research paper ([Onward! 2013](http://splashcon.org/2013/component/content/article/628))_ <br/>
     Indianapolis, IN, USA; October 2013 <br/>
     [[slides](papers/onward13-red-slides.pdf)] [[poster](papers/onward13-red-poster.pdf)] [[abstract](papers/onward13-red-abstract.txt)] [[full text](papers/onward13-red.pdf)] [[bibtex](papers/onward13-red-bibtex.txt)]
      
@@ -131,19 +131,19 @@ general.
     
  1. **Executable Specifications for Java Programs** <br/>
     A. Milicevic <br/>
-    _Massachusetts Institute of Technology, Master Thesis, September 2010._ <br/>
+    _Massachusetts Institute of Technology, Master Thesis, September 2010_ <br/>
     [[slides](papers/mit10-milicevic-ms-slides.pdf)] [[abstract](papers/mit10-milicevic-ms-abstract.txt)] [[full text](papers/mit10-milicevic-ms.pdf)] [[bibtex](papers/mit10-milicevic-ms-bibtex.txt)]
     
  1. **Agile Specifications** <br/>
     D. Rayside, A. Milicevic, K. Yessenov, G. Dennis and D. Jackson <br/>
-    _OOPSLA Onward! ([Onward! 2009](http://onward-conference.org/2009/), short paper)_ <br/>
+    _OOPSLA Onward! short paper ([Onward! 2009](http://onward-conference.org/2009/))_ <br/>
     Orlando, FL, USA; October 2009 <br/>
     [[abstract](papers/onward09-agile-abstract.txt)] [[full text](papers/onward09-agile.pdf)] [[bibtex](papers/onward09-agile-bibtex.txt)]
     
  1. **Equality and Hashing for (almost) Free: Generating Implementations from Abstraction Functions** <br/>
     D. Rayside, Z. Benjamin, J. Near, R. Sing, A. Milicevic and D. Jackson <br/>
     _31st International Conference on Software Engineering ([ICSE 2009](http://www.cs.uoregon.edu/events/icse2009/home/))_ <br/>
-    Vancouver, Canada <br/>
+    Vancouver, Canada; May 2009 <br/>
     [[abstract](papers/icse09-equality-abstract.txt)] [[full text](papers/icse09-equality.pdf)] [[bibtex](papers/icse09-equality-bibtex.txt)]
      
  1. **Parallel test generation and execution with Korat** <br/>
