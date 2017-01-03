@@ -3,6 +3,7 @@
 |                                                                                                                                                              |                |                                                                                                                                                                                                                                                                            |
 |--------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | ![Avatar](https://1.gravatar.com/avatar/52263f4f0ad7eefd3464de854f4828f2?d=https%3A%2F%2Fidenticons.github.com%2F1836912b3eebe2f842af47a1a1db2ec4.png&s=200) | **Name:** <br/> **Education:** <br/> **Occupation:** <br/> **Team:** <br/> **Email:** <br/> **Links:** | Aleksandar Milicevic <br/> Ph.D. in Computer Science from [MIT](http://mit.edu) <br> Software Engineer at [Microsoft](http://microsoft.com) <br/> Tools for Software Engineers ([TSE](https://www.microsoft.com/en-us/research/project/tools-for-software-engineers/)) <br/> [almili@microsoft.com](mailto:almili@microsoft.com) <br/> [DBLP](http://www.informatik.uni-trier.de/~ley/pers/hd/m/Milicevic:Aleksandar.html), [Google Scholar](http://scholar.google.com/citations?user=_zVXPEAAAAAJ), [LinkedIn](http://www.linkedin.com/in/aleksandarmilicevic), [GitHub](https://github.com/aleksandarmilicevic) |
+||||
 
 
 <!-- |                |                                                                                                                                                                                                                                                                            | -->
@@ -147,3 +148,40 @@ general.
     S.Misailovic, A.Milicevic, S.Khurshid, D.Marinov <br/>
     _Workshop on Advances and Innovations in Systems Testing ([STEP 07](http://www.cs.memphis.edu/~vrus/STEP/)), Memphis, TN, May 2007._ <br/>
     [[abstract](papers/step07-aft-abstract.txt)] [[full text](papers/step07-aft.pdf)] [[bibtex](papers/step07-aft-bibtex.txt)]
+
+## Education
+
+ | title           | school                                                          | department      | major            | date        |
+ |-----------------+-----------------------------------------------------------------+-----------------+------------------+-------------|
+ | **PhD**         | [MIT][MIT], Cambridge, MA, USA                                  | [EECS][MITEECS] | Computer Science | 2010 - 2015 |
+ | **MSc**         | [MIT][MIT], Cambridge, MA, USA                                  | [EECS][MITEECS] | Computer Science | 2008 - 2010 |
+ | **BSc**         | [University of Belgrade][BUN], Serbia                           | [EECS][ETF]     | Computer Science | 2003 - 2007 |
+ | **High School** | [Mathematical Gymnasium](http://mg.edu.rs/en), Belgrade, Serbia |                 | Computer Science | 1999 - 2003 |
+
+ # - [2010 - 2015] **Philosopher of Doctor** in Computer Science from [MIT](http://mit.edu) (department of [EECS](http://eecsweb.mit.edu))
+ # - [2008 - 2010] **Master of Science** from [MIT](http://mit.edu) (department of [EECS](http://eecsweb.mit.edu))
+ # - [2003 - 2007] **Bachelor of Science** from [University of Belgrade](http://www.bg.ac.rs/en_index.php) (school of [Electrical Engineering and Computer Science](http://www.etf.bg.ac.rs/index.php?lang=en))
+ # - [1999 - 2003] **High School diploma** from [Mathematical Gymnasium](http://mg.edu.rs/en) in Belgrade (specializing in math and computer science)
+
+## Experience
+
+ | title                                         | company                                                   | job description                                                                                                                                                                                        | date                |
+ |-----------------------------------------------+-----------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+---------------------|
+ | **Software Engineer**                         | [Microsoft][MSFT], Redmond, WA, USA                       | Developing a modern build system enabling fast, distributed, reliable, cacheable, incremental builds                                                                                                   | Aug 2015 - present  |
+ | **Research Intern**                           | [Microsoft Research][MSR], Redmond, WA, USA               | Program synthesis from declarative first-order specifications                                                                                                                                          | Jun 2011 - Aug 2011 |
+ | **Research Intern**                           | [Microsoft Research][MSRUK], Cambridge, UK                | Bounded model checking using SMT and Theory of Lists (with application to analysis and execution of Live Sequence Charts)                                                                              | Jun 2009 - Aug 2009 |
+ | **Software Engineer**                         | [Serbian Object Laboratories][SOL], Belgrade, Serbia      | Developing a web-based enterprise information system using WebWork, Java Servlets, SOAP, JSP, HTML, CSS, JS, AJAX, Sybase IQ                                                                           | Mar 2006 - Aug 2008 |
+ | **Software Development Intern**               | [Google][http://www.google.com/), New York, NY, USA       | Barcode scanner for mobile devices (using computer vision, machine learning, Java ME on Symbian OS)                                                                                                    | Jul 2007 - Sep 2007 |
+ | **Research Intern**                           | [UIUC][UIUC], Urbana, IL, USA                             | Software testing, automatic test case generation with Korat, model checking with JPF                                                                                                                   | Aug 2006 - Sep 2006 |
+ | **Windows Server 2003 Sys Admin** (part-time) | [School of Electrical Engineering][ETF], Belgrade, Serbia | Maintenance and administration of a small computer network (30 client computers under Windows XP operating system and one server computer under Windows 2003 Server) for the lab and teaching purposes | Nov 2005 - Feb 2007 |
+ | **Software Development Intern**               | [Serbian Object Laboratories][SOL], Belgrade, Serbia      | Model driven development of Object Oriented Information Systems                                                                                                                                        | Jul 2005 - Aug 2005 |
+
+[MSFT]: http://microsoft.com
+[MSR]: http://research.microsoft.com/en-us/labs/redmond/default.aspx
+[MSRUK]: http://research.microsoft.com/en-us/labs/cambridge/default.aspx
+[MIT]: http://mit.edu
+[MITEECS]: http://eecsweb.mit.edu
+[SOL]: http://www.sol.rs/
+[BUN]: http://www.bg.ac.rs/en_index.php
+[ETF]: http://www.etf.bg.ac.rs/index.php?lang=en
+[UIUC]: http://www.uiuc.edu/
