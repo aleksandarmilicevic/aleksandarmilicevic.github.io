@@ -152,7 +152,7 @@ general.
 ## Education
 
  | title           | school                                                          | department      | major            | date        |
- |-----------------+-----------------------------------------------------------------+-----------------+------------------+-------------|
+ |-----------------|-----------------------------------------------------------------|-----------------|------------------|-------------|
  | **PhD**         | [MIT][MIT], Cambridge, MA, USA                                  | [EECS][MITEECS] | Computer Science | 2010 - 2015 |
  | **MSc**         | [MIT][MIT], Cambridge, MA, USA                                  | [EECS][MITEECS] | Computer Science | 2008 - 2010 |
  | **BSc**         | [University of Belgrade][BUN], Serbia                           | [EECS][ETF]     | Computer Science | 2003 - 2007 |
@@ -166,7 +166,7 @@ general.
 ## Experience
 
  | title                                         | company                                                   | job description                                                                                                                                                                                        | date                |
- |-----------------------------------------------+-----------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+---------------------|
+ |-----------------------------------------------|-----------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------|
  | **Software Engineer**                         | [Microsoft][MSFT], Redmond, WA, USA                       | Developing a modern build system enabling fast, distributed, reliable, cacheable, incremental builds                                                                                                   | Aug 2015 - present  |
  | **Research Intern**                           | [Microsoft Research][MSR], Redmond, WA, USA               | Program synthesis from declarative first-order specifications                                                                                                                                          | Jun 2011 - Aug 2011 |
  | **Research Intern**                           | [Microsoft Research][MSRUK], Cambridge, UK                | Bounded model checking using SMT and Theory of Lists (with application to analysis and execution of Live Sequence Charts)                                                                              | Jun 2009 - Aug 2009 |
