@@ -94,7 +94,7 @@ general.
  1. **Program Extrapolation with Jennisys** <br/>
     K. R. M. Leino, and A. Milicevic
  
-     - _3rd Annual SPLASH Conference ([SPLASH 2012](http://splashcon.org/2012/)) <br/>
+     - _3rd Annual SPLASH Conference ([SPLASH 2012](http://splashcon.org/2012/))_ <br/>
        Tucson, AZ, USA; October 2012 <br/>
        [[abstract](papers/splash12-jen-abstract.txt)] [[full text](papers/splash12-jen.pdf)] [[bibtex](papers/splash12-jen-bibtex.txt)]
        
