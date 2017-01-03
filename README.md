@@ -52,19 +52,22 @@ general.
 
  1. **Multi-Representational Security Analysis** <br/>
     E. Kang, A. Milicevic, D. Jackson <br/>
-    _24th ACM SIGSOFT Foundations of Software Engineering ([FSE 2016](http://www.cs.ucdavis.edu/fse2016/)), Seattle, WA, USA, November 2016_ <br/>
+    _24th ACM SIGSOFT Foundations of Software Engineering ([FSE 2016](http://www.cs.ucdavis.edu/fse2016/))_ <br/>
+    Seattle, WA, USA; November 2016 <br/>
     **`(distinguished paper award)`**<br/>
     [[abstract](papers/fse16-poirot-abstract.txt)], [[full text](http://dl.acm.org/citation.cfm?doid=2950290.2950356)], [[bibtex](papers/fse16-poirot-bibtex.txt)]
     
  1. **Build System with Lazy Retrieval for Java Projects** <br/>
     A. Çelik, A. Knaust, A. Milicevic, M. Gligoric <br/>
-    _24th ACM SIGSOFT Foundations of Software Engineering ([FSE 2016](http://www.cs.ucdavis.edu/fse2016/)), Seattle, WA, USA, November 2016_ <br/>
+    _24th ACM SIGSOFT Foundations of Software Engineering ([FSE 2016](http://www.cs.ucdavis.edu/fse2016/))_ <br/>
+    Seattle, WA, USA; November 2016 <br/>
     [[abstract](papers/fse16-molly-abstract.txt)], [[full text](http://dl.acm.org/citation.cfm?doid=2950290.2950358)], [[bibtex](papers/fse16-molly-bibtex.txt)]
 
  1. **Alloy\*: A Higher-Order Relational Constraint Solver** <br/>
     A. Milicevic, J. P. Near, E. Kang, and D. Jackson<br/>
     
-    - _37th International Conference on Software Engineering ([ICSE 2015](http://2015.icse-conferences.org/)), Florence, Italy, May 2015._<br/>
+    - _37th International Conference on Software Engineering ([ICSE 2015](http://2015.icse-conferences.org/))_ <br/>
+      Florence, Italy; May 2015 <br/>
       **`(distinguished paper award)`**<br/>
       [[slides](papers/icse15-alloystar-slides.pdf)] [[abstract](papers/icse15-alloystar-abstract.txt)] [[full text](papers/icse15-alloystar.pdf)] [[bibtex](papers/icse15-alloystar-bibtex.txt)]
 
@@ -78,18 +81,21 @@ general.
 
  1. **αRby—An Embedding of Alloy in Ruby** <br/>
     A. Milicevic, Ido Efrati, and D. Jackson <br/>
-    _International Conference of Alloy, ASM, B, VDM, and Z Users ([ABZ 2014](http://www.irit.fr/ABZ2014/)), Toulouse, France, June 2014._<br/>
+    _International Conference of Alloy, ASM, B, VDM, and Z Users ([ABZ 2014](http://www.irit.fr/ABZ2014/))_ <br/>
+    Toulouse, France; June 2014 <br/>
     [[slides](papers/abz14-arby-slides.pdf)] [[abstract](papers/abz14-arby-abstract.txt)] [[full text](papers/abz14-arby.pdf)] [[bibtex](papers/abz14-arby-bibtex.txt)]
 
  1. **Model-Based, Event-Driven Programming Paradigm for Interactive Web Applications**<br/>
     A. Milicevic, M. Gligoric, D. Marinov, and D. Jackson <br/>
-    _OOPSLA Onward! ([Onward! 2013](http://splashcon.org/2013/component/content/article/628), research paper), Indianapolis, Indiana, USA, October 2013._<br/>
+    _OOPSLA Onward! ([Onward! 2013](http://splashcon.org/2013/component/content/article/628), research paper)_ <br/>
+    Indianapolis, Indiana, USA; October 2013 <br/>
     [[slides](papers/onward13-red-slides.pdf)] [[poster](papers/onward13-red-poster.pdf)] [[abstract](papers/onward13-red-abstract.txt)] [[full text](papers/onward13-red.pdf)] [[bibtex](papers/onward13-red-bibtex.txt)]
      
  1. **Program Extrapolation with Jennisys** <br/>
     K. R. M. Leino, and A. Milicevic
  
-     - _3rd Annual SPLASH Conference ([SPLASH 2012](http://splashcon.org/2012/)), Tucson, Arizona, USA, October 2012._ <br/>
+     - _3rd Annual SPLASH Conference ([SPLASH 2012](http://splashcon.org/2012/)) <br/>
+       Tucson, Arizona, USA; October 2012 <br/>
        [[abstract](papers/splash12-jen-abstract.txt)] [[full text](papers/splash12-jen.pdf)] [[bibtex](papers/splash12-jen-bibtex.txt)]
        
      - _Microsoft Technical Report, February 2012. ([MSR-TR 2012](http://research.microsoft.com/apps/pubs/default.aspx?id=158573))_ <br/>
@@ -101,22 +107,26 @@ general.
      - _Science of Computer Programming ([SCP 2014](http://www.sciencedirect.com/science/article/pii/S0167642314002470)), May 2014._ <br/>
        [[abstract](papers/scp14-overflow-abstract.txt)] [[full text](papers/scp14-overflow.pdf)] [[bibtex](papers/scp14-overflow-bibtex.txt)]
     
-     - _Intl. Conference of Alloy, ASM, B, VDM, and Z Users ([ABZ 2012](http://ifm-abz.isti.cnr.it/page22/abzindex.html)), Pisa, Italy, June 2012._ <br/>
+     - _Intl. Conference of Alloy, ASM, B, VDM, and Z Users ([ABZ 2012](http://ifm-abz.isti.cnr.it/page22/abzindex.html))_ <br/>
+       Pisa, Italy; June 2012 <br/>
        [[slides](papers/abz12-overflow-slides.pdf)] [[abstract](papers/abz12-overflow-abstract.txt)] [[full text](papers/abz12-overflow.pdf)] [[bibtex](papers/abz12-overflow-bibtex.txt)]
 
  1. **Unifying Execution of Imperative and Declarative Code** <br/>
     A. Milicevic, D. Rayside, K. Yessenov, and D. Jackson. <br/>
-    _33rd International Conference on Software Engineering ([ICSE 2011](http://2011.icse-conferences.org/)), Waikiki, Honolulu, Hawaii, May 2011._ <br/>
+    _33rd International Conference on Software Engineering ([ICSE 2011](http://2011.icse-conferences.org/))_ <br/>
+    Waikiki, Honolulu, Hawaii, USA; May 2011 <br/>
     [[slides](papers/icse11-squander-slides.pdf)] [[abstract](papers/icse11-squander-abstract.txt)] [[full text](papers/icse11-squander.pdf)] [[bibtex](papers/icse11-squander-bibtex.txt)]
     
  1. **A Lightweight Approach to Construction and Evaluation of a Dependability Case** <br/>
     J. P. Near, A. Milicevic, E. Kang, D. Jackson. <br/>
-    _33rd International Conference on Software Engineering ([ICSE 2011](http://2011.icse-conferences.org/)), Waikiki, Honolulu, Hawaii, May 2011._ <br/>
+    _33rd International Conference on Software Engineering ([ICSE 2011](http://2011.icse-conferences.org/))_ <br/>
+    Waikiki, Honolulu, Hawaii, USA; May 2011 <br/>
     [[abstract](papers/icse11-proton-therapy-abstract.txt)] [[full text](papers/icse11-proton-therapy.pdf)] [[bibtex](papers/icse11-proton-therapy-bibtex.txt)]
     
  1. **Model Checking Using SMT and Theory of Lists** <br/>
     A. Milicevic, H. Kugler. <br/>
-    _3rd NASA Formal Method Symposium ([NFM 2011](http://lars-lab.jpl.nasa.gov/nfm2011/)), Pasadena, California, April 2011._
+    _3rd NASA Formal Method Symposium ([NFM 2011](http://lars-lab.jpl.nasa.gov/nfm2011/))_ <br/>
+    Pasadena, California, USA; April 2011 <br/>
     [[example](papers/nfm11-smtlist-example.zip)] [[slides](papers/nfm11-smtlist-slides.pdf)] [[abstract](papers/nfm11-smtlist-abstract.txt)] [[full text](papers/nfm11-smtlist.pdf)] [[bibtex](papers/nfm11-smtlist-bibtex.txt)]
     
  1. **Executable Specifications for Java Programs** <br/>
@@ -126,27 +136,32 @@ general.
     
  1. **Agile Specifications** <br/>
     D. Rayside, A. Milicevic, K. Yessenov, G. Dennis and D. Jackson <br/>
-    _OOPSLA Onward! ([Onward! 2009](http://onward-conference.org/2009/), short paper), Orlando, Florida, USA, October 2009._ <br/>
+    _OOPSLA Onward! ([Onward! 2009](http://onward-conference.org/2009/), short paper)_ <br/>
+    Orlando, Florida, USA; October 2009 <br/>
     [[abstract](papers/onward09-agile-abstract.txt)] [[full text](papers/onward09-agile.pdf)] [[bibtex](papers/onward09-agile-bibtex.txt)]
     
  1. **Equality and Hashing for (almost) Free: Generating Implementations from Abstraction Functions** <br/>
     D. Rayside, Z. Benjamin, J. Near, R. Sing, A. Milicevic and D. Jackson <br/>
-    _31st International Conference on Software Engineering ([ICSE 2009](http://www.cs.uoregon.edu/events/icse2009/home/)), Vancouver, Canada._ <br/>
+    _31st International Conference on Software Engineering ([ICSE 2009](http://www.cs.uoregon.edu/events/icse2009/home/))_ <br/>
+    Vancouver, Canada <br/>
     [[abstract](papers/icse09-equality-abstract.txt)] [[full text](papers/icse09-equality.pdf)] [[bibtex](papers/icse09-equality-bibtex.txt)]
      
  1. **Parallel test generation and execution with Korat** <br/>
     S. Misailovic, A. Milicevic, N. Petrovic, S. Khurshid, and D. Marinov <br/>
-    _6th joint meeting of the European Software Engineering Conference and the ACM SIGSOFT Symposium on the Foundations of Software Engineering ([ESEC/FSE 2007](http://www.idt.mdh.se/esec-fse-2007/)), Dubrovnik, Croatia, Sept. 2007._ <br/>
+    _6th joint meeting of the European Software Engineering Conference and the ACM SIGSOFT Symposium on the Foundations of Software Engineering ([ESEC/FSE 2007](http://www.idt.mdh.se/esec-fse-2007/))_ <br/>
+    Dubrovnik, Croatia; September 2007 <br/>
     [[slides](papers/fse07-parallel-korat-slides.pdf)] [[abstract](papers/fse07-parallel-korat-abstract.txt)] [[full text](papers/fse07-parallel-korat.pdf)] [[bibtex](papers/fse07-parallel-korat-bibtex.txt)]
    
  1. **Korat: A Tool for Generating Structurally Complex Test Inputs** <br/>
     A. Milicevic, S. Misailovic, D. Marinov, and S. Khurshid <br/>
-    _Formal Research Demo at the 29th International Conference on Software Engineering ([ICSE Demo 2007](http://web4.cs.ucl.ac.uk/icse07/)), Minneapolis, MN, May 2007._ <br/>
+    _Formal Research Demo at the 29th International Conference on Software Engineering ([ICSE Demo 2007](http://web4.cs.ucl.ac.uk/icse07/))_ <br/>
+    Minneapolis, MN, USA; May 2007 <br/>
     [[abstract](papers/icse07demo-korat-abstract.txt)] [[full text](papers/icse07demo-korat.pdf)] [[bibtex](papers/icse07demo-korat-bibtex.txt)]
     
  1. **Generating Test Inputs for Fault-Tree Analyzers using Imperative Predicates** <br/>
     S.Misailovic, A.Milicevic, S.Khurshid, D.Marinov <br/>
-    _Workshop on Advances and Innovations in Systems Testing ([STEP 07](http://www.cs.memphis.edu/~vrus/STEP/)), Memphis, TN, May 2007._ <br/>
+    _Workshop on Advances and Innovations in Systems Testing ([STEP 07](http://www.cs.memphis.edu/~vrus/STEP/))_ <br/>
+    Memphis, TN, USA; May 2007 <br/>
     [[abstract](papers/step07-aft-abstract.txt)] [[full text](papers/step07-aft.pdf)] [[bibtex](papers/step07-aft-bibtex.txt)]
 
 ## Education
