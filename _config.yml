@@ -1,5 +1,0 @@
-markdown: kramdown
-kramdown:
-  syntax_highlighter: rouge
-
-theme: jekyll-theme-time-machine
