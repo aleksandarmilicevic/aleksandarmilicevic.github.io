@@ -88,14 +88,14 @@ general.
  1. **Model-Based, Event-Driven Programming Paradigm for Interactive Web Applications**<br/>
     A. Milicevic, M. Gligoric, D. Marinov, and D. Jackson <br/>
     _OOPSLA Onward! ([Onward! 2013](http://splashcon.org/2013/component/content/article/628), research paper)_ <br/>
-    Indianapolis, Indiana, USA; October 2013 <br/>
+    Indianapolis, IN, USA; October 2013 <br/>
     [[slides](papers/onward13-red-slides.pdf)] [[poster](papers/onward13-red-poster.pdf)] [[abstract](papers/onward13-red-abstract.txt)] [[full text](papers/onward13-red.pdf)] [[bibtex](papers/onward13-red-bibtex.txt)]
      
  1. **Program Extrapolation with Jennisys** <br/>
     K. R. M. Leino, and A. Milicevic
  
      - _3rd Annual SPLASH Conference ([SPLASH 2012](http://splashcon.org/2012/)) <br/>
-       Tucson, Arizona, USA; October 2012 <br/>
+       Tucson, AZ, USA; October 2012 <br/>
        [[abstract](papers/splash12-jen-abstract.txt)] [[full text](papers/splash12-jen.pdf)] [[bibtex](papers/splash12-jen-bibtex.txt)]
        
      - _Microsoft Technical Report, February 2012. ([MSR-TR 2012](http://research.microsoft.com/apps/pubs/default.aspx?id=158573))_ <br/>
@@ -114,19 +114,19 @@ general.
  1. **Unifying Execution of Imperative and Declarative Code** <br/>
     A. Milicevic, D. Rayside, K. Yessenov, and D. Jackson. <br/>
     _33rd International Conference on Software Engineering ([ICSE 2011](http://2011.icse-conferences.org/))_ <br/>
-    Waikiki, Honolulu, Hawaii, USA; May 2011 <br/>
+    Waikiki, Honolulu, HI, USA; May 2011 <br/>
     [[slides](papers/icse11-squander-slides.pdf)] [[abstract](papers/icse11-squander-abstract.txt)] [[full text](papers/icse11-squander.pdf)] [[bibtex](papers/icse11-squander-bibtex.txt)]
     
  1. **A Lightweight Approach to Construction and Evaluation of a Dependability Case** <br/>
     J. P. Near, A. Milicevic, E. Kang, D. Jackson. <br/>
     _33rd International Conference on Software Engineering ([ICSE 2011](http://2011.icse-conferences.org/))_ <br/>
-    Waikiki, Honolulu, Hawaii, USA; May 2011 <br/>
+    Waikiki, Honolulu, HI, USA; May 2011 <br/>
     [[abstract](papers/icse11-proton-therapy-abstract.txt)] [[full text](papers/icse11-proton-therapy.pdf)] [[bibtex](papers/icse11-proton-therapy-bibtex.txt)]
     
  1. **Model Checking Using SMT and Theory of Lists** <br/>
     A. Milicevic, H. Kugler. <br/>
     _3rd NASA Formal Method Symposium ([NFM 2011](http://lars-lab.jpl.nasa.gov/nfm2011/))_ <br/>
-    Pasadena, California, USA; April 2011 <br/>
+    Pasadena, CA, USA; April 2011 <br/>
     [[example](papers/nfm11-smtlist-example.zip)] [[slides](papers/nfm11-smtlist-slides.pdf)] [[abstract](papers/nfm11-smtlist-abstract.txt)] [[full text](papers/nfm11-smtlist.pdf)] [[bibtex](papers/nfm11-smtlist-bibtex.txt)]
     
  1. **Executable Specifications for Java Programs** <br/>
@@ -137,7 +137,7 @@ general.
  1. **Agile Specifications** <br/>
     D. Rayside, A. Milicevic, K. Yessenov, G. Dennis and D. Jackson <br/>
     _OOPSLA Onward! ([Onward! 2009](http://onward-conference.org/2009/), short paper)_ <br/>
-    Orlando, Florida, USA; October 2009 <br/>
+    Orlando, FL, USA; October 2009 <br/>
     [[abstract](papers/onward09-agile-abstract.txt)] [[full text](papers/onward09-agile.pdf)] [[bibtex](papers/onward09-agile-bibtex.txt)]
     
  1. **Equality and Hashing for (almost) Free: Generating Implementations from Abstraction Functions** <br/>
