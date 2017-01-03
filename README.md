@@ -1,8 +1,3 @@
----
-title: Aleksandar Milicevic Home Page
----
-
-
 # Aleksandar Milicevic Home Page
 
 |                                                                                                                                                              |                |                                                                                                                                                                                                                                                                            |
