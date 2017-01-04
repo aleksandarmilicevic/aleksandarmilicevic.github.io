@@ -1,7 +1,7 @@
 # Aleksandar Milicevic Home Page
 
 
-| ![Avatar](https://1.gravatar.com/avatar/52263f4f0ad7eefd3464de854f4828f2?d=https%3A%2F%2Fidenticons.github.com%2F1836912b3eebe2f842af47a1a1db2ec4.png&s=200) | **Name:** <br/> **Education:** <br/> **Occupation:** <br/> **Team:** <br/> **Email:** <br/> **Links:** | Aleksandar Milicevic <br/> Ph.D. in Computer Science from [MIT](http://mit.edu) <br> Software Engineer at [Microsoft](http://microsoft.com) <br/> Tools for Software Engineers ([TSE](https://www.microsoft.com/en-us/research/project/tools-for-software-engineers/)) <br/> [almili@microsoft.com](mailto:almili@microsoft.com) <br/> [DBLP](http://www.informatik.uni-trier.de/~ley/pers/hd/m/Milicevic:Aleksandar.html), [Google Scholar](http://scholar.google.com/citations?user=_zVXPEAAAAAJ), [LinkedIn](http://www.linkedin.com/in/aleksandarmilicevic), [GitHub](https://github.com/aleksandarmilicevic) |
+| ![Avatar](https://secure.gravatar.com/avatar/0296bebd289ed689eb0074321bf14214?s=200) | **Name:** <br/> **Education:** <br/> **Occupation:** <br/> **Team:** <br/> **Email:** <br/> **Links:** | Aleksandar Milicevic <br/> Ph.D. in Computer Science from [MIT](http://mit.edu) <br> Software Engineer at [Microsoft](http://microsoft.com) <br/> Tools for Software Engineers ([TSE](https://www.microsoft.com/en-us/research/project/tools-for-software-engineers/)) <br/> [almili@microsoft.com](mailto:almili@microsoft.com) <br/> [DBLP](http://www.informatik.uni-trier.de/~ley/pers/hd/m/Milicevic:Aleksandar.html), [Google Scholar](http://scholar.google.com/citations?user=_zVXPEAAAAAJ), [LinkedIn](http://www.linkedin.com/in/aleksandarmilicevic), [GitHub](https://github.com/aleksandarmilicevic) |
 
 
 
