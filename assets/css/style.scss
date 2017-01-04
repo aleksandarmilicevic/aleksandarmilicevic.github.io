@@ -8,3 +8,11 @@ code {
   color: #557398;
   padding: 3px 0px 3px 0px;
 }
+
+tr:nth-child(even) {
+    background-color: #eee;
+}
+
+td {
+  border-right: 0px solid #557398;
+}
