@@ -64,7 +64,11 @@ general.
 
  1. **Alloy\*: A Higher-Order Relational Constraint Solver** <br/>
     A. Milicevic, J. P. Near, E. Kang, and D. Jackson<br/>
-    
+
+    - _Formal Methods in System Design ([FMSD 2017](https://rd.springer.com/journal/10703))_ <br/>
+      `(journal paper)` <br/>
+      [[abstract](papers/fsmd17-alloystart-abstract.txt)] [[full text](https://rd.springer.com/article/10.1007/s10703-016-0267-2)] [[bibtex](papers/fsmd17-alloystart-bibtex.txt)]
+
     - _37th International Conference on Software Engineering ([ICSE 2015](http://2015.icse-conferences.org/))_ <br/>
       Florence, Italy; May 2015 <br/>
       **`(distinguished paper award)`**<br/>
@@ -104,7 +108,8 @@ general.
     A. Milicevic, and D. Jackson
 
      - _Science of Computer Programming ([SCP 2014](http://www.sciencedirect.com/science/article/pii/S0167642314002470)), May 2014._ <br/>
-       [[abstract](papers/scp14-overflow-abstract.txt)] [[full text](papers/scp14-overflow.pdf)] [[bibtex](papers/scp14-overflow-bibtex.txt)]
+       `(journal paper)` <br/>
+       [[abstract](papers/scp14-overflow-abstract.txt)] [[full text](http://www.sciencedirect.com/science/article/pii/S0167642314002470)] [[bibtex](papers/scp14-overflow-bibtex.txt)]
     
      - _Intl. Conference of Alloy, ASM, B, VDM, and Z Users ([ABZ 2012](http://ifm-abz.isti.cnr.it/page22/abzindex.html))_ <br/>
        Pisa, Italy; June 2012 <br/>

@@ -1,0 +1,15 @@
+@Article{Milicevic2017,
+author="Milicevic, Aleksandar
+and Near, Joseph P.
+and Kang, Eunsuk
+and Jackson, Daniel",
+title="Alloy*: a general-purpose higher-order relational constraint solver",
+journal="Formal Methods in System Design",
+year="2017",
+month="Jan",
+day="27",
+issn="1572-8102",
+doi="10.1007/s10703-016-0267-2",
+url="http://dx.doi.org/10.1007/s10703-016-0267-2"
+}
+
