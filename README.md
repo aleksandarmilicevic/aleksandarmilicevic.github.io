@@ -49,6 +49,14 @@ general.
 
 ## Publications
 
+ 1. **Regression Test Selection Across JVM Boundaries** <br/>
+    A. Çelik, M. Vasic, A. Milicevic, M. Gligoric <br/>
+    _11th Joint Meeting of the European Software Engineering Conference and the ACM SIGSOFT Symposium on the Foundations of Software Engineering ([FSE 2017](http://esec-fse17.uni-paderborn.de/)]_ [to appear] <br/>
+
+ 1. **File-level vs. Module-level Regression Test Selection for .NET** <br/>
+    M. Vasic, Z. Parvez, A. Milicevic, M. Gligoric <br/>
+    _(Industrial Paper) 11th Joint Meeting of the European Software Engineering Conference and the ACM SIGSOFT Symposium on the Foundations of Software Engineering ([FSE 2017](http://esec-fse17.uni-paderborn.de/accepted_industrial_papers.php)]_ [to appear] <br/>
+
  1. **Multi-Representational Security Analysis** <br/>
     E. Kang, A. Milicevic, D. Jackson <br/>
     _24th ACM SIGSOFT Foundations of Software Engineering ([FSE 2016](http://www.cs.ucdavis.edu/fse2016/))_ <br/>
