@@ -67,7 +67,7 @@ general.
 
     - _Formal Methods in System Design ([FMSD 2017](https://rd.springer.com/journal/10703))_ <br/>
       `(journal paper)` <br/>
-      [[abstract](papers/fsmd17-alloystart-abstract.txt)] [[full text](https://rd.springer.com/article/10.1007/s10703-016-0267-2)] [[bibtex](papers/fsmd17-alloystart-bibtex.txt)]
+      [[abstract](papers/fsmd17-alloystar-abstract.txt)] [[full text](https://rd.springer.com/article/10.1007/s10703-016-0267-2)] [[bibtex](papers/fsmd17-alloystar-bibtex.txt)]
 
     - _37th International Conference on Software Engineering ([ICSE 2015](http://2015.icse-conferences.org/))_ <br/>
       Florence, Italy; May 2015 <br/>
