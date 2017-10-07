@@ -53,11 +53,13 @@ general.
     A. Çelik, M. Vasic, A. Milicevic, M. Gligoric <br/>
     _11th Joint Meeting of the European Software Engineering Conference and the ACM SIGSOFT Symposium on the Foundations of Software Engineering ([FSE 2017](http://esec-fse17.uni-paderborn.de/)]_<br/>
     Paderborn, Germany; September 2017 <br/>
+    [[full text](http://users.ece.utexas.edu/~gligoric/papers/CelikETAL17RTSLinux.pdf)], [[bibtex](http://users.ece.utexas.edu/~gligoric/papers/bibtex/CelikETAL17RTSLinux.bib)]    
 
  1. **File-level vs. Module-level Regression Test Selection for .NET** <br/>
     M. Vasic, Z. Parvez, A. Milicevic, M. Gligoric <br/>
     (Industrial Paper) _11th Joint Meeting of the European Software Engineering Conference and the ACM SIGSOFT Symposium on the Foundations of Software Engineering ([FSE 2017](http://esec-fse17.uni-paderborn.de/accepted_industrial_papers.php)]_<br/>
     Paderborn, Germany; September 2017 <br/>
+    [[full text](http://users.ece.utexas.edu/~gligoric/papers/VasicETAL17EkstaziSharp.pdf)], [[bibtex](http://users.ece.utexas.edu/~gligoric/papers/bibtex/VasicETAL17EkstaziSharp.bib)]
 
  1. **Multi-Representational Security Analysis** <br/>
     E. Kang, A. Milicevic, D. Jackson <br/>
