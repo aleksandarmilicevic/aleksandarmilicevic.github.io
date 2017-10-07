@@ -51,12 +51,12 @@ general.
 
  1. **Regression Test Selection Across JVM Boundaries** <br/>
     A. Çelik, M. Vasic, A. Milicevic, M. Gligoric <br/>
-    _11th Joint Meeting of the European Software Engineering Conference and the ACM SIGSOFT Symposium on the Foundations of Software Engineering ([FSE 2017](http://esec-fse17.uni-paderborn.de/)]_ [to appear] <br/>
+    _11th Joint Meeting of the European Software Engineering Conference and the ACM SIGSOFT Symposium on the Foundations of Software Engineering ([FSE 2017](http://esec-fse17.uni-paderborn.de/)]_<br/>
     Paderborn, Germany; September 2017 <br/>
 
  1. **File-level vs. Module-level Regression Test Selection for .NET** <br/>
     M. Vasic, Z. Parvez, A. Milicevic, M. Gligoric <br/>
-    (Industrial Paper) _11th Joint Meeting of the European Software Engineering Conference and the ACM SIGSOFT Symposium on the Foundations of Software Engineering ([FSE 2017](http://esec-fse17.uni-paderborn.de/accepted_industrial_papers.php)]_ [to appear] <br/>
+    (Industrial Paper) _11th Joint Meeting of the European Software Engineering Conference and the ACM SIGSOFT Symposium on the Foundations of Software Engineering ([FSE 2017](http://esec-fse17.uni-paderborn.de/accepted_industrial_papers.php)]_<br/>
     Paderborn, Germany; September 2017 <br/>
 
  1. **Multi-Representational Security Analysis** <br/>
