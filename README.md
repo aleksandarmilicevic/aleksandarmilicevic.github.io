@@ -39,8 +39,8 @@ general.
 
 ## Research Projects
 
- - [Alloy*](http://alloy.mit.edu/alloy/hola)—a general-purpose, higher-order, relational constraint solver
- - [αRby](http://people.csail.mit.edu/aleks/website/arby)—an embedding of Alloy in Ruby
+ - [Alloy*](https://aleksandarmilicevic.github.io/hola/)—a general-purpose, higher-order, relational constraint solver
+ - [αRby](https://aleksandarmilicevic.github.io/arby)—an embedding of Alloy in Ruby
  - [Squander](http://people.csail.mit.edu/aleks/squander)—a framework for unified execution of imperative code and declarative first-order specifications
  - Jennisys—a programming language and a synthesis tool from declarative first-order specifications to imperative code
  - [Alloy Analyzer](http://alloy.mit.edu/)—a model finder for a first-order relational specification language
