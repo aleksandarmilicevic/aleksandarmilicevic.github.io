@@ -49,6 +49,11 @@ general.
 
 ## Publications
 
+ 1. **VeDebug: Regression Debugging Tool for Java** <br/>
+    Ben Buhse, Thomas Wei, Zhiqiang Zang, Aleksandar Milicevic, Milos Gligoric <br/>
+    The 41st ACM/IEEE International Conference on Software Engineering Demonstrations Track ([ICSE 2019 Demo](https://2019.icse-conferences.org/track/icse-2019-Demonstrations#About)) <br/>
+    Montreal, Canada; May 2019 (to appear)
+
  1. **Regression Test Selection Across JVM Boundaries** <br/>
     A. Çelik, M. Vasic, A. Milicevic, M. Gligoric <br/>
     _11th Joint Meeting of the European Software Engineering Conference and the ACM SIGSOFT Symposium on the Foundations of Software Engineering ([FSE 2017](http://esec-fse17.uni-paderborn.de/))_<br/>
