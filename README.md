@@ -40,7 +40,7 @@ general.
 ## Research Projects
 
  - [Alloy*](https://aleksandarmilicevic.github.io/hola/)—a general-purpose, higher-order, relational constraint solver
- - [Sunny](https://github.com/aleksandarmilicevic/sunny.js)—a model-based, event-driven, policy-agnostic paradigm for devel-oping reactive web applications.
+ - [Sunny](https://github.com/aleksandarmilicevic/sunny.js)—a model-based, event-driven, policy-agnostic paradigm for developing reactive web applications.
  - [αRby](https://aleksandarmilicevic.github.io/arby)—an embedding of Alloy in Ruby
  - [Squander](http://people.csail.mit.edu/aleks/squander)—a framework for unified execution of imperative code and declarative first-order specifications
  - [Jennisys](http://research.microsoft.com/en-us/projects/jennisys)—a programming language and a synthesis tool from declarative first-order specifications to imperative code
