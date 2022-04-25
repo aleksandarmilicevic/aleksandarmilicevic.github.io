@@ -50,6 +50,10 @@ general.
 
 ## Publications
 
+ 1. **Unifying Execution of Imperative Generators and Declarative Specifications** <br/>
+    P. Nie, M. Parovic, Z. Zang, S. Khurshid, A. Milicevic, M. Gligoric
+    [OOPSLA 2020](https://2020.splashcon.org/track/splash-2020-oopsla)
+ 
  1. **Debugging the Performance of Maven’s Test Isolation: Experience Report** <br/>
     P. Nie, A. Çelik, M. Coley, A. Milicevic, J. Bell, M. Gligoric <br/>
     [ISSTA 2020](https://conf.researchr.org/home/issta-2020), Los Angeles, USA; July 2020
