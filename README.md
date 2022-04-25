@@ -51,7 +51,7 @@ general.
 ## Publications
 
  1. **Unifying Execution of Imperative Generators and Declarative Specifications** <br/>
-    P. Nie, M. Parovic, Z. Zang, S. Khurshid, A. Milicevic, M. Gligoric
+    P. Nie, M. Parovic, Z. Zang, S. Khurshid, A. Milicevic, M. Gligoric <br/>
     [OOPSLA 2020](https://2020.splashcon.org/track/splash-2020-oopsla)
  
  1. **Debugging the Performance of Maven’s Test Isolation: Experience Report** <br/>
