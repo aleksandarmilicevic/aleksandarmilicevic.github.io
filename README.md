@@ -1,41 +1,35 @@
 # Aleksandar Milicevic Home Page
 
 
-| ![Avatar](https://secure.gravatar.com/avatar/0296bebd289ed689eb0074321bf14214?s=200) | **Name:** <br/> **Education:** <br/> **Occupation:** <br/> **Team:** <br/> **CV:** <br/> **Email:** <br/> **Links:** <br/> **GitHub:** | Aleksandar Milicevic <br/> Ph.D. in Computer Science from [MIT](http://mit.edu) <br> Engineer at Cubist <br/> [milicevic-cv.pdf](milicevic-cv.pdf) <br/> [aleks@cubist.dev](mailto:aleks@cubist.dev) <br/> [DBLP](http://www.informatik.uni-trier.de/~ley/pers/hd/m/Milicevic:Aleksandar.html), [Google Scholar](http://scholar.google.com/citations?user=_zVXPEAAAAAJ), [LinkedIn](http://www.linkedin.com/in/aleksandarmilicevic) <br/> [GitHub](https://github.com/aleksandarmilicevic) |
+| ![Avatar](https://secure.gravatar.com/avatar/0296bebd289ed689eb0074321bf14214?s=200) | **Name:** <br/> **Education:** <br/> **Occupation:** <br/> **Team:** <br/> **CV:** <br/> **Email:** <br/> **Links:** | Aleksandar Milicevic <br/> Ph.D. in Computer Science from [MIT](http://mit.edu) <br> Engineer at Cubist <br/> [milicevic-cv.pdf](milicevic-cv.pdf) <br/> [aleks@cubist.dev](mailto:aleks@cubist.dev) <br/> [DBLP](http://www.informatik.uni-trier.de/~ley/pers/hd/m/Milicevic:Aleksandar.html), [Google Scholar](http://scholar.google.com/citations?user=_zVXPEAAAAAJ), [LinkedIn](http://www.linkedin.com/in/aleksandarmilicevic) | [GitHub](https://github.com/aleksandarmilicevic) |
 
-
-
-<!-- |                |                                                                                                                                                                                                                                                                            | -->
-<!-- |----------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -->
-<!-- | **Name**       | Aleksandar Milicevic                                                                                                                                                                                                                                                       | -->
-<!-- | **Education**  | Ph.D. in Computer Science from [MIT](http://mit.edu)                                                                                                                                                                                                                       | -->
-<!-- | **Occupation** | Software Engineer at [Microsoft](http://microsoft.com)                                                                                                                                                                                                                     | -->
-<!-- | **Team**       | Tools for Software Engineers ([TSE](https://www.microsoft.com/en-us/research/project/tools-for-software-engineers/))                                                                                                                                                       | -->
-<!-- | **Email**      | [almili@microsoft.com](mailto:almili@microsoft.com)                                                                                                                                                                                                                        | -->
-<!-- | **Resume**     | [milicevic-resume.pdf](milicevic-resume.pdf), [milicevic-resume.txt](milicevic-resume.txt), [milicevic-cv.pdf](milicevic-cv.pdf)                                                                                                                                           | -->
-<!-- | **Links**      | [DBLP](http://www.informatik.uni-trier.de/~ley/pers/hd/m/Milicevic:Aleksandar.html), [Google Scholar](http://scholar.google.com/citations?user=_zVXPEAAAAAJ), [LinkedIn](http://www.linkedin.com/in/aleksandarmilicevic), [GitHub](https://github.com/aleksandarmilicevic) | -->
 
 ## About Me
 
-I am a software engineer in the [Tools for Software
-Engineers](https://www.microsoft.com/en-us/research/project/tools-for-software-engineers/)
-group at [Microsoft](http://microsoft.com). I am currently a member of
-the *Build Tools* team, working on a modern build system that enables
-fast, reliable, distributed, cacheable, incremental builds for
-projects ranging from single-developer apps to large-scale enterprise
-systems.
+I am an engineer at *Cubist*, working on tooling for Web3, focusing on
+security, correctness, and ease of use.
 
-More broadly, I am interested in developing tools and techniques that
-help software engineers build strong, robust, and reliable software
-systems more easily. I am particularly keen on fusing traditional
-programming languages and declarative programming techniques (e.g.,
-constraint solving, lightweight formal specifications, model-driven
-development, model-based synthesis, etc.) to achieve said goals.
+Previously, I worked as a Principal Software Engineer at Microsoft
+where I led the development of various low-level Linux-specific
+solutions, like process sandboxing and filesystem virtualization.  I
+was also a key contributor to a novel build system that leverages said
+solutions to automatically add caching and distribution to any
+existing build.
 
-I received my PhD in Computer Science from MIT working with
-[Prof. Daniel Jackson](http://people.csail.mit.edu/dnj/) on
-Declarative Programming, Software Design, and Software Engineering in
-general.
+Broadly speaking, I am interested in developing tools and techniques
+that help software engineers build strong, robust, and reliable
+software systems more easily. I am particularly keen on fusing
+traditional programming languages and declarative programming
+techniques (e.g., constraint solving, lightweight formal
+specifications, model-driven development, model-based synthesis, etc.)
+to achieve said goals.
+
+I received my PhD in Computer Science from MIT in 2015, advised by
+[Prof. Daniel Jackson](http://people.csail.mit.edu/dnj/).  My
+thesis---[Advancing Declarative
+Programming](./papers/mit15-milicevic-phd.pdf)---focuses on combining
+declarative and imperative programming paradigms into tools that
+simplify building complex software that is correct by design.
 
 ## Research Projects
 
