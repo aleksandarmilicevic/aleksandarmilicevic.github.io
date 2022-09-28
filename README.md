@@ -1,13 +1,13 @@
 # Aleksandar Milicevic Home Page
 
 
-| ![Avatar](https://secure.gravatar.com/avatar/0296bebd289ed689eb0074321bf14214?s=200) | **Name:** <br/> **Education:** <br/> **Occupation:** <br/> **CV:** <br/> **Email:** <br/> **Links:** | Aleksandar Milicevic <br/> Ph.D. in Computer Science from [MIT](http://mit.edu) <br> Engineer at Cubist <br/> [milicevic-cv.pdf](milicevic-cv.pdf) <br/> [aleks@cubist.dev](mailto:aleks@cubist.dev) <br/> [DBLP](http://www.informatik.uni-trier.de/~ley/pers/hd/m/Milicevic:Aleksandar.html), [Google Scholar](http://scholar.google.com/citations?user=_zVXPEAAAAAJ), [LinkedIn](http://www.linkedin.com/in/aleksandarmilicevic), [GitHub](https://github.com/aleksandarmilicevic) |
+| ![Avatar](https://secure.gravatar.com/avatar/0296bebd289ed689eb0074321bf14214?s=200) | **Name:** <br/> **Education:** <br/> **Occupation:** <br/> **CV:** <br/> **Email:** <br/> **Links:** | Aleksandar Milicevic <br/> Ph.D. in Computer Science from [MIT](http://mit.edu) <br> Founding Engineer at Cubist <br/> [milicevic-cv.pdf](milicevic-cv.pdf) <br/> [aleks@cubist.dev](mailto:aleks@cubist.dev) <br/> [DBLP](http://www.informatik.uni-trier.de/~ley/pers/hd/m/Milicevic:Aleksandar.html), [Google Scholar](http://scholar.google.com/citations?user=_zVXPEAAAAAJ), [LinkedIn](http://www.linkedin.com/in/aleksandarmilicevic), [GitHub](https://github.com/aleksandarmilicevic) |
 
 
 ## About Me
 
-I am an engineer at *Cubist*, working on tooling for Web3, focusing on
-security, correctness, and ease of use.
+I am a Founding Engineer at *Cubist*, working on tooling for Web3,
+focusing on security, correctness, and ease of use.
 
 Previously, I worked as a Principal Software Engineer at Microsoft
 where I led the development of various low-level Linux-specific
