@@ -1,20 +1,34 @@
 # Aleksandar Milicevic Home Page
 
 
-| ![Avatar](https://secure.gravatar.com/avatar/0296bebd289ed689eb0074321bf14214?s=200) | **Name:** <br/> **Education:** <br/> **Occupation:** <br/> **CV:** <br/> **Email:** <br/> **Links:** | Aleksandar Milicevic <br/> Ph.D. in Computer Science from [MIT](http://mit.edu) <br> Founding Engineer at Cubist <br/> [milicevic-cv.pdf](milicevic-cv.pdf) <br/> [aca.milicevic@gmail.com](mailto:aca.milicevic@gmail.com), [aleks@csail.mit.edu](mailto:aleks@csail.mit.edu) <br/> [DBLP](http://www.informatik.uni-trier.de/~ley/pers/hd/m/Milicevic:Aleksandar.html), [Google Scholar](http://scholar.google.com/citations?user=_zVXPEAAAAAJ), [LinkedIn](http://www.linkedin.com/in/aleksandarmilicevic), [GitHub](https://github.com/aleksandarmilicevic) |
+| ![Avatar](https://secure.gravatar.com/avatar/0296bebd289ed689eb0074321bf14214?s=200) | **Name:** <br/> **Education:** <br/> **Occupation:** <br/> **CV:** <br/> **Email:** <br/> **Links:** | Aleksandar Milicevic <br/> Ph.D. in Computer Science from [MIT](http://mit.edu) <br> Previously Founding Engineer at [Cubist](https://cubist.dev) <br/> [milicevic-cv.pdf](milicevic-cv.pdf) <br/> [aca.milicevic@gmail.com](mailto:aca.milicevic@gmail.com), [aleks@csail.mit.edu](mailto:aleks@csail.mit.edu) <br/> [DBLP](http://www.informatik.uni-trier.de/~ley/pers/hd/m/Milicevic:Aleksandar.html), [Google Scholar](http://scholar.google.com/citations?user=_zVXPEAAAAAJ), [LinkedIn](http://www.linkedin.com/in/aleksandarmilicevic), [GitHub](https://github.com/aleksandarmilicevic) |
 
 
 ## About Me
 
-I am a Founding Engineer at *Cubist*, working on tooling for Web3,
-focusing on security, correctness, and ease of use.
+I am a security-focused systems engineer with a strong background in
+formal methods and over a decade of experience building and operating
+production infrastructure.
 
-Previously, I worked as a Principal Software Engineer at Microsoft
-where I led the development of various low-level Linux-specific
-solutions, like process sandboxing and filesystem virtualization.  I
-was also a key contributor to a novel build system that leverages said
-solutions to automatically add caching and distribution to any
-existing build.
+Most recently, I was a Founding Engineer at [Cubist](https://cubist.dev),
+where I co-designed CubeSigner, a hardware-backed, non-custodial
+platform for managing cryptographic keys that secures billions of
+dollars in digital assets.  Keys are only ever handled inside AWS Nitro
+Enclaves, and the platform is built in Rust for low latency and high
+throughput.  I was the main contributor to its declarative policy
+engine, which lets users state exactly when their keys may be used
+(spending limits, allowlists, time windows, multi-party approval), and
+I designed Rust "guard" types that make it a compile-time error to
+reach sensitive data without passing every required check.  I also
+built the platform's live monitoring and alerting, and managed two
+small engineering teams.
+
+Before that, I spent seven years at Microsoft, most recently as a
+Principal Software Engineer, where I was tech lead for a range of
+low-level systems, including process sandboxing for Linux and macOS
+and filesystem virtualization for Linux.  I integrated these into a
+distributed build system that significantly sped up Windows and Office
+builds.
 
 Broadly speaking, I am interested in developing tools and techniques
 that help software engineers build strong, robust, and reliable
@@ -186,8 +200,8 @@ simplify building complex software that is correct by design.
 
 | title                                     | company                                                        | job description                                                                                                                                                                                        | date                              |
 |-------------------------------------------|----------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------|
-| Founding Software Engineer                         | Cubist                       | Secure cryptographic key management for web3                                                                                                   | Sep&nbsp;2022 <br/> Oct&nbsp;2026
-| Software Engineer                         | [Microsoft][MSFT],<br/> Redmond, WA, USA                       | Developing a modern build system enabling fast, distributed, reliable, cacheable, incremental builds                                                                                                   | Aug&nbsp;2015 <br/> Sep&nbsp;2022       |
+| Founding Engineer                         | [Cubist](https://cubist.dev)                                   | Hardware-backed, non-custodial key management platform (CubeSigner) built in Rust on AWS Nitro Enclaves; declarative policy engine, type-enforced security checks, monitoring and alerting; managed two engineering teams | Sep&nbsp;2022 <br/> Oct&nbsp;2026 |
+| Principal Software Engineer               | [Microsoft][MSFT],<br/> Redmond, WA, USA | Tech lead for process sandboxing (Linux, macOS) and filesystem virtualization (Linux), integrated into a distributed build system that significantly sped up Windows and Office builds | Aug&nbsp;2015 <br/> Sep&nbsp;2022 |
 | Research Intern                           | [Microsoft&nbsp;Research][MSR],<br/> Redmond, WA, USA          | Program synthesis from declarative first-order specifications                                                                                                                                          | Jun&nbsp;2011 <br/> Aug&nbsp;2011 |
 | Research Intern                           | [Microsoft&nbsp;Research][MSRUK],<br/> Cambridge, UK                 | Bounded model checking using SMT and Theory of Lists (with application to analysis and execution of Live Sequence Charts)                                                                              | Jun&nbsp;2009 <br/> Aug&nbsp;2009 |
 | Software Engineer                         | [Serbian Object Laboratories][SOL],<br/> Belgrade, Serbia      | Developing a web-based enterprise information system using WebWork, Java Servlets, SOAP, JSP, HTML, CSS, JS, AJAX, Sybase IQ                                                                           | Mar&nbsp;2006 <br/> Aug&nbsp;2008 |
