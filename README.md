@@ -60,25 +60,28 @@ simplify building complex software that is correct by design.
 
  1. **Unifying Execution of Imperative Generators and Declarative Specifications** <br/>
     P. Nie, M. Parovic, Z. Zang, S. Khurshid, A. Milicevic, M. Gligoric <br/>
-    [OOPSLA 2020](https://2020.splashcon.org/track/splash-2020-oopsla)
+    [OOPSLA 2020](https://2020.splashcon.org/track/splash-2020-oopsla) <br/>
+    [[full text](papers/oopsla20-deuterium.pdf)]
  
  1. **Debugging the Performance of Maven’s Test Isolation: Experience Report** <br/>
     P. Nie, A. Çelik, M. Coley, A. Milicevic, J. Bell, M. Gligoric <br/>
-    [ISSTA 2020](https://conf.researchr.org/home/issta-2020), Los Angeles, USA; July 2020
+    [ISSTA 2020](https://conf.researchr.org/home/issta-2020), Los Angeles, USA; July 2020 <br/>
+    [[full text](papers/issta20-forkscript.pdf)]
 
  1. **VeDebug: Regression Debugging Tool for Java** <br/>
     Ben Buhse, Thomas Wei, Zhiqiang Zang, Aleksandar Milicevic, Milos Gligoric <br/>
-    [ICSE 2019 Demo](https://2019.icse-conferences.org/track/icse-2019-Demonstrations#About) Montreal, Canada; May 2019
+    [ICSE 2019 Demo](https://2019.icse-conferences.org/track/icse-2019-Demonstrations#About) Montreal, Canada; May 2019 <br/>
+    [[full text](papers/icse19demo-vedebug.pdf)]
 
  1. **Regression Test Selection Across JVM Boundaries** <br/>
     A. Çelik, M. Vasic, A. Milicevic, M. Gligoric <br/>
     [FSE 2017](http://esec-fse17.uni-paderborn.de/) Paderborn, Germany; September 2017 <br/>
-    [[full text](http://users.ece.utexas.edu/~gligoric/papers/CelikETAL17RTSLinux.pdf)], [[bibtex](http://users.ece.utexas.edu/~gligoric/papers/bibtex/CelikETAL17RTSLinux.bib)]    
+    [[full text](papers/fse17-rtslinux.pdf)], [[bibtex](http://users.ece.utexas.edu/~gligoric/papers/bibtex/CelikETAL17RTSLinux.bib)]    
 
  1. **File-level vs. Module-level Regression Test Selection for .NET** <br/>
     M. Vasic, Z. Parvez, A. Milicevic, M. Gligoric <br/>
     (Industrial Paper) [FSE 2017](http://esec-fse17.uni-paderborn.de/accepted_industrial_papers.php) Paderborn, Germany; September 2017 <br/>
-    [[full text](http://users.ece.utexas.edu/~gligoric/papers/VasicETAL17EkstaziSharp.pdf)], [[bibtex](http://users.ece.utexas.edu/~gligoric/papers/bibtex/VasicETAL17EkstaziSharp.bib)]
+    [[full text](papers/fse17-ekstazisharp.pdf)], [[bibtex](http://users.ece.utexas.edu/~gligoric/papers/bibtex/VasicETAL17EkstaziSharp.bib)]
 
  1. **Multi-Representational Security Analysis** <br/>
     E. Kang, A. Milicevic, D. Jackson <br/>
@@ -89,7 +92,7 @@ simplify building complex software that is correct by design.
  1. **Build System with Lazy Retrieval for Java Projects** <br/>
     A. Çelik, A. Knaust, A. Milicevic, M. Gligoric <br/>
     [FSE 2016](http://www.cs.ucdavis.edu/fse2016/) Seattle, WA, USA; November 2016 <br/>
-    [[abstract](papers/fse16-molly-abstract.txt)], [[full text](http://dl.acm.org/citation.cfm?doid=2950290.2950358)], [[bibtex](papers/fse16-molly-bibtex.txt)]
+    [[abstract](papers/fse16-molly-abstract.txt)], [[full text](papers/fse16-molly.pdf)], [[bibtex](papers/fse16-molly-bibtex.txt)]
 
  1. **Alloy\*: A Higher-Order Relational Constraint Solver** <br/>
     A. Milicevic, J. P. Near, E. Kang, and D. Jackson<br/>
@@ -165,12 +168,12 @@ simplify building complex software that is correct by design.
  1. **Equality and Hashing for (almost) Free: Generating Implementations from Abstraction Functions** <br/>
     D. Rayside, Z. Benjamin, J. Near, R. Sing, A. Milicevic and D. Jackson <br/>
     [ICSE 2009](http://www.cs.uoregon.edu/events/icse2009/home/) Vancouver, Canada; May 2009 <br/>
-    [[abstract](papers/icse09-equality-abstract.txt)] [[bibtex](papers/icse09-equality-bibtex.txt)]
+    [[abstract](papers/icse09-equality-abstract.txt)] [[full text](papers/icse09-equality.pdf)] [[bibtex](papers/icse09-equality-bibtex.txt)]
      
  1. **Parallel test generation and execution with Korat** <br/>
     S. Misailovic, A. Milicevic, N. Petrovic, S. Khurshid, and D. Marinov <br/>
     [ESEC/FSE 2007](http://www.idt.mdh.se/esec-fse-2007/) Dubrovnik, Croatia; September 2007 <br/>
-    [[slides](papers/fse07-parallel-korat-slides.pdf)] [[abstract](papers/fse07-parallel-korat-abstract.txt)] [[bibtex](papers/fse07-parallel-korat-bibtex.txt)]
+    [[slides](papers/fse07-parallel-korat-slides.pdf)] [[abstract](papers/fse07-parallel-korat-abstract.txt)] [[full text](papers/fse07-parallel-korat.pdf)] [[bibtex](papers/fse07-parallel-korat-bibtex.txt)]
    
  1. **Korat: A Tool for Generating Structurally Complex Test Inputs** <br/>
     A. Milicevic, S. Misailovic, D. Marinov, and S. Khurshid <br/>
