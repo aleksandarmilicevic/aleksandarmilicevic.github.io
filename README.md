@@ -126,7 +126,7 @@ simplify building complex software that is correct by design.
        [[abstract](papers/splash12-jen-abstract.txt)] [[full text](papers/splash12-jen.pdf)] [[bibtex](papers/splash12-jen-bibtex.txt)]
        
      - [MSR-TR 2012](http://research.microsoft.com/apps/pubs/default.aspx?id=158573) Microsoft Technical Report; February 2012 <br/>
-       [[slides](papers/msr12-jen-slides.pdf)] [[abstract](papers/msr12-jen-abstract.txt)] [[full text](papers/msr12-jen.pdf)] [[bibtex](papers/msr12-jen-bibtex.txt)]
+       [[slides](papers/msr12-jen-slides.pdf)] [[abstract](papers/msr12-jen-abstract.txt)] [[bibtex](papers/msr12-jen-bibtex.txt)]
 
  1. **Preventing Arithmetic Overflows in Alloy** <br/>
     A. Milicevic, and D. Jackson
@@ -165,12 +165,12 @@ simplify building complex software that is correct by design.
  1. **Equality and Hashing for (almost) Free: Generating Implementations from Abstraction Functions** <br/>
     D. Rayside, Z. Benjamin, J. Near, R. Sing, A. Milicevic and D. Jackson <br/>
     [ICSE 2009](http://www.cs.uoregon.edu/events/icse2009/home/) Vancouver, Canada; May 2009 <br/>
-    [[abstract](papers/icse09-equality-abstract.txt)] [[full text](papers/icse09-equality.pdf)] [[bibtex](papers/icse09-equality-bibtex.txt)]
+    [[abstract](papers/icse09-equality-abstract.txt)] [[bibtex](papers/icse09-equality-bibtex.txt)]
      
  1. **Parallel test generation and execution with Korat** <br/>
     S. Misailovic, A. Milicevic, N. Petrovic, S. Khurshid, and D. Marinov <br/>
     [ESEC/FSE 2007](http://www.idt.mdh.se/esec-fse-2007/) Dubrovnik, Croatia; September 2007 <br/>
-    [[slides](papers/fse07-parallel-korat-slides.pdf)] [[abstract](papers/fse07-parallel-korat-abstract.txt)] [[full text](papers/fse07-parallel-korat.pdf)] [[bibtex](papers/fse07-parallel-korat-bibtex.txt)]
+    [[slides](papers/fse07-parallel-korat-slides.pdf)] [[abstract](papers/fse07-parallel-korat-abstract.txt)] [[bibtex](papers/fse07-parallel-korat-bibtex.txt)]
    
  1. **Korat: A Tool for Generating Structurally Complex Test Inputs** <br/>
     A. Milicevic, S. Misailovic, D. Marinov, and S. Khurshid <br/>
@@ -180,7 +180,7 @@ simplify building complex software that is correct by design.
  1. **Generating Test Inputs for Fault-Tree Analyzers using Imperative Predicates** <br/>
     S.Misailovic, A.Milicevic, S.Khurshid, D.Marinov <br/>
     [STEP 07](http://www.cs.memphis.edu/~vrus/STEP/) Memphis, TN, USA; May 2007 <br/>
-    [[abstract](papers/step07-aft-abstract.txt)] [[full text](papers/step07-aft.pdf)] [[bibtex](papers/step07-aft-bibtex.txt)]
+    [[abstract](papers/step07-aft-abstract.txt)] [[bibtex](papers/step07-aft-bibtex.txt)]
 
 ## Education
 
