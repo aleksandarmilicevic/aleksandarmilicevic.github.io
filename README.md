@@ -1,7 +1,7 @@
 # Aleksandar Milicevic Home Page
 
 
-| ![Avatar](https://secure.gravatar.com/avatar/0296bebd289ed689eb0074321bf14214?s=200) | **Name:** <br/> **Education:** <br/> **Occupation:** <br/> **CV:** <br/> **Email:** <br/> **Links:** | Aleksandar Milicevic <br/> Ph.D. in Computer Science from [MIT](http://mit.edu) <br> Previously Founding Engineer at [Cubist](https://cubist.dev) <br/> [milicevic-cv.pdf](milicevic-cv.pdf) <br/> [aca.milicevic@gmail.com](mailto:aca.milicevic@gmail.com), [aleks@csail.mit.edu](mailto:aleks@csail.mit.edu) <br/> [DBLP](http://www.informatik.uni-trier.de/~ley/pers/hd/m/Milicevic:Aleksandar.html), [Google Scholar](http://scholar.google.com/citations?user=_zVXPEAAAAAJ), [LinkedIn](http://www.linkedin.com/in/aleksandarmilicevic), [GitHub](https://github.com/aleksandarmilicevic) |
+| ![Avatar](https://secure.gravatar.com/avatar/0296bebd289ed689eb0074321bf14214?s=200) | **Name:** <br/> **Education:** <br/> **Occupation:** <br/> **CV:** <br/> **Email:** <br/> **Links:** | Aleksandar Milicevic <br/> Ph.D. in Computer Science from [MIT](http://mit.edu) <br> Previously Founding Engineer at [Cubist](https://cubist.dev) <br/> [milicevic-cv.pdf](milicevic-cv.pdf) <br/> [aca.milicevic@gmail.com](mailto:aca.milicevic@gmail.com) <br/> [DBLP](http://www.informatik.uni-trier.de/~ley/pers/hd/m/Milicevic:Aleksandar.html), [Google Scholar](http://scholar.google.com/citations?user=_zVXPEAAAAAJ), [LinkedIn](http://www.linkedin.com/in/aleksandarmilicevic), [GitHub](https://github.com/aleksandarmilicevic) |
 
 
 ## About Me
@@ -20,15 +20,19 @@ engine, which lets users state exactly when their keys may be used
 (spending limits, allowlists, time windows, multi-party approval), and
 I designed Rust "guard" types that make it a compile-time error to
 reach sensitive data without passing every required check.  I also
-built the platform's live monitoring and alerting, and managed two
-small engineering teams.
+built the platform's live monitoring and alerting, led technical
+integrations with key enterprise customers, managed two small
+engineering teams, and mentored engineers into owners of major
+platform components.
 
 Before that, I spent seven years at Microsoft, most recently as a
-Principal Software Engineer, where I was tech lead for a range of
-low-level systems, including process sandboxing for Linux and macOS
-and filesystem virtualization for Linux.  I integrated these into a
-distributed build system that significantly sped up Windows and Office
-builds.
+Principal Software Engineer.  I was tech lead for Linux in a
+distributed build-acceleration service, taking it from a two-week
+prototype to a technology adopted by about eight internal teams, and
+built the low-level systems behind it: process sandboxing and
+filesystem virtualization for Linux, and (as one of two main
+contributors) process sandboxing for macOS.  Most of that core technology
+now lives in BuildXL, the build engine used for Windows and Office builds.
 
 Broadly speaking, I am interested in developing tools and techniques
 that help software engineers build strong, robust, and reliable
@@ -203,8 +207,8 @@ simplify building complex software that is correct by design.
 
 | title                                     | company                                                        | job description                                                                                                                                                                                        | date                              |
 |-------------------------------------------|----------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------|
-| Founding Engineer                         | [Cubist](https://cubist.dev)                                   | Hardware-backed, non-custodial key management platform (CubeSigner) built in Rust on AWS Nitro Enclaves; declarative policy engine, type-enforced security checks, monitoring and alerting; managed two engineering teams | Sep&nbsp;2022 <br/> Oct&nbsp;2026 |
-| Principal Software Engineer               | [Microsoft][MSFT],<br/> Redmond, WA, USA | Tech lead for process sandboxing (Linux, macOS) and filesystem virtualization (Linux), integrated into a distributed build system that significantly sped up Windows and Office builds | Aug&nbsp;2015 <br/> Sep&nbsp;2022 |
+| Founding Engineer                         | [Cubist](https://cubist.dev)                                   | Hardware-backed, non-custodial key management platform (CubeSigner) built in Rust on AWS Nitro Enclaves; declarative policy engine, type-enforced security checks, monitoring and alerting; led enterprise customer integrations; managed two engineering teams | Sep&nbsp;2022 <br/> Oct&nbsp;2026 |
+| Software Engineer II, Senior, Principal   | [Microsoft][MSFT],<br/> Redmond, WA, USA | Tech lead for Linux in a distributed build-acceleration service; process sandboxing (Linux, macOS) and filesystem virtualization (Linux); contributor to BuildXL, the build engine used for Windows and Office | Aug&nbsp;2015 <br/> Sep&nbsp;2022 |
 | Research Intern                           | [Microsoft&nbsp;Research][MSR],<br/> Redmond, WA, USA          | Program synthesis from declarative first-order specifications                                                                                                                                          | Jun&nbsp;2011 <br/> Aug&nbsp;2011 |
 | Research Intern                           | [Microsoft&nbsp;Research][MSRUK],<br/> Cambridge, UK                 | Bounded model checking using SMT and Theory of Lists (with application to analysis and execution of Live Sequence Charts)                                                                              | Jun&nbsp;2009 <br/> Aug&nbsp;2009 |
 | Software Engineer                         | [Serbian Object Laboratories][SOL],<br/> Belgrade, Serbia      | Developing a web-based enterprise information system using WebWork, Java Servlets, SOAP, JSP, HTML, CSS, JS, AJAX, Sybase IQ                                                                           | Mar&nbsp;2006 <br/> Aug&nbsp;2008 |
