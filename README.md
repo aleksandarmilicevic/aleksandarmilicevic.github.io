@@ -1,20 +1,38 @@
 # Aleksandar Milicevic Home Page
 
 
-| ![Avatar](https://secure.gravatar.com/avatar/0296bebd289ed689eb0074321bf14214?s=200) | **Name:** <br/> **Education:** <br/> **Occupation:** <br/> **CV:** <br/> **Email:** <br/> **Links:** | Aleksandar Milicevic <br/> Ph.D. in Computer Science from [MIT](http://mit.edu) <br> Founding Engineer at Cubist <br/> [milicevic-cv.pdf](milicevic-cv.pdf) <br/> [aca.milicevic@gmail.com](mailto:aca.milicevic@gmail.com) <br/> [DBLP](http://www.informatik.uni-trier.de/~ley/pers/hd/m/Milicevic:Aleksandar.html), [Google Scholar](http://scholar.google.com/citations?user=_zVXPEAAAAAJ), [LinkedIn](http://www.linkedin.com/in/aleksandarmilicevic), [GitHub](https://github.com/aleksandarmilicevic) |
+| ![Avatar](https://secure.gravatar.com/avatar/0296bebd289ed689eb0074321bf14214?s=200) | **Name:** <br/> **Education:** <br/> **Occupation:** <br/> **CV:** <br/> **Email:** <br/> **Links:** | Aleksandar Milicevic <br/> Ph.D. in Computer Science from [MIT](http://mit.edu) <br> Previously Founding Engineer at [Cubist](https://cubist.dev) <br/> [milicevic-cv.pdf](milicevic-cv.pdf) <br/> [aca.milicevic@gmail.com](mailto:aca.milicevic@gmail.com) <br/> [DBLP](http://www.informatik.uni-trier.de/~ley/pers/hd/m/Milicevic:Aleksandar.html), [Google Scholar](http://scholar.google.com/citations?user=_zVXPEAAAAAJ), [LinkedIn](http://www.linkedin.com/in/aleksandarmilicevic), [GitHub](https://github.com/aleksandarmilicevic) |
 
 
 ## About Me
 
-I am a Founding Engineer at *Cubist*, working on tooling for Web3,
-focusing on security, correctness, and ease of use.
+I am a security-focused systems engineer with a strong background in
+formal methods and over a decade of experience building and operating
+production infrastructure.
 
-Previously, I worked as a Principal Software Engineer at Microsoft
-where I led the development of various low-level Linux-specific
-solutions, like process sandboxing and filesystem virtualization.  I
-was also a key contributor to a novel build system that leverages said
-solutions to automatically add caching and distribution to any
-existing build.
+Most recently, I was a Founding Engineer at [Cubist](https://cubist.dev),
+where I co-designed CubeSigner, a hardware-backed, non-custodial
+platform for managing cryptographic keys that secures billions of
+dollars in digital assets.  Keys are only ever handled inside AWS Nitro
+Enclaves, and the platform is built in Rust for low latency and high
+throughput.  I was the main contributor to its declarative policy
+engine, which lets users state exactly when their keys may be used
+(spending limits, allowlists, time windows, multi-party approval), and
+I designed Rust "guard" types that make it a compile-time error to
+reach sensitive data without passing every required check.  I also
+built the platform's live monitoring and alerting, led technical
+integrations with key enterprise customers, managed two small
+engineering teams, and mentored engineers into owners of major
+platform components.
+
+Before that, I spent seven years at Microsoft, most recently as a
+Principal Software Engineer.  I was tech lead for Linux in a
+distributed build-acceleration service, taking it from a two-week
+prototype to a technology adopted by about eight internal teams, and
+built the low-level systems behind it: process sandboxing and
+filesystem virtualization for Linux, and (as one of two main
+contributors) process sandboxing for macOS.  Most of that core technology
+now lives in BuildXL, the build engine used for Windows and Office builds.
 
 Broadly speaking, I am interested in developing tools and techniques
 that help software engineers build strong, robust, and reliable
@@ -46,25 +64,28 @@ simplify building complex software that is correct by design.
 
  1. **Unifying Execution of Imperative Generators and Declarative Specifications** <br/>
     P. Nie, M. Parovic, Z. Zang, S. Khurshid, A. Milicevic, M. Gligoric <br/>
-    [OOPSLA 2020](https://2020.splashcon.org/track/splash-2020-oopsla)
+    [OOPSLA 2020](https://2020.splashcon.org/track/splash-2020-oopsla) <br/>
+    [[full text](papers/oopsla20-deuterium.pdf)]
  
  1. **Debugging the Performance of Maven’s Test Isolation: Experience Report** <br/>
     P. Nie, A. Çelik, M. Coley, A. Milicevic, J. Bell, M. Gligoric <br/>
-    [ISSTA 2020](https://conf.researchr.org/home/issta-2020), Los Angeles, USA; July 2020
+    [ISSTA 2020](https://conf.researchr.org/home/issta-2020), Los Angeles, USA; July 2020 <br/>
+    [[full text](papers/issta20-forkscript.pdf)]
 
  1. **VeDebug: Regression Debugging Tool for Java** <br/>
     Ben Buhse, Thomas Wei, Zhiqiang Zang, Aleksandar Milicevic, Milos Gligoric <br/>
-    [ICSE 2019 Demo](https://2019.icse-conferences.org/track/icse-2019-Demonstrations#About) Montreal, Canada; May 2019
+    [ICSE 2019 Demo](https://2019.icse-conferences.org/track/icse-2019-Demonstrations#About) Montreal, Canada; May 2019 <br/>
+    [[full text](papers/icse19demo-vedebug.pdf)]
 
  1. **Regression Test Selection Across JVM Boundaries** <br/>
     A. Çelik, M. Vasic, A. Milicevic, M. Gligoric <br/>
     [FSE 2017](http://esec-fse17.uni-paderborn.de/) Paderborn, Germany; September 2017 <br/>
-    [[full text](http://users.ece.utexas.edu/~gligoric/papers/CelikETAL17RTSLinux.pdf)], [[bibtex](http://users.ece.utexas.edu/~gligoric/papers/bibtex/CelikETAL17RTSLinux.bib)]    
+    [[full text](papers/fse17-rtslinux.pdf)], [[bibtex](http://users.ece.utexas.edu/~gligoric/papers/bibtex/CelikETAL17RTSLinux.bib)]    
 
  1. **File-level vs. Module-level Regression Test Selection for .NET** <br/>
     M. Vasic, Z. Parvez, A. Milicevic, M. Gligoric <br/>
     (Industrial Paper) [FSE 2017](http://esec-fse17.uni-paderborn.de/accepted_industrial_papers.php) Paderborn, Germany; September 2017 <br/>
-    [[full text](http://users.ece.utexas.edu/~gligoric/papers/VasicETAL17EkstaziSharp.pdf)], [[bibtex](http://users.ece.utexas.edu/~gligoric/papers/bibtex/VasicETAL17EkstaziSharp.bib)]
+    [[full text](papers/fse17-ekstazisharp.pdf)], [[bibtex](http://users.ece.utexas.edu/~gligoric/papers/bibtex/VasicETAL17EkstaziSharp.bib)]
 
  1. **Multi-Representational Security Analysis** <br/>
     E. Kang, A. Milicevic, D. Jackson <br/>
@@ -75,7 +96,7 @@ simplify building complex software that is correct by design.
  1. **Build System with Lazy Retrieval for Java Projects** <br/>
     A. Çelik, A. Knaust, A. Milicevic, M. Gligoric <br/>
     [FSE 2016](http://www.cs.ucdavis.edu/fse2016/) Seattle, WA, USA; November 2016 <br/>
-    [[abstract](papers/fse16-molly-abstract.txt)], [[full text](http://dl.acm.org/citation.cfm?doid=2950290.2950358)], [[bibtex](papers/fse16-molly-bibtex.txt)]
+    [[abstract](papers/fse16-molly-abstract.txt)], [[full text](papers/fse16-molly.pdf)], [[bibtex](papers/fse16-molly-bibtex.txt)]
 
  1. **Alloy\*: A Higher-Order Relational Constraint Solver** <br/>
     A. Milicevic, J. P. Near, E. Kang, and D. Jackson<br/>
@@ -112,7 +133,7 @@ simplify building complex software that is correct by design.
        [[abstract](papers/splash12-jen-abstract.txt)] [[full text](papers/splash12-jen.pdf)] [[bibtex](papers/splash12-jen-bibtex.txt)]
        
      - [MSR-TR 2012](http://research.microsoft.com/apps/pubs/default.aspx?id=158573) Microsoft Technical Report; February 2012 <br/>
-       [[slides](papers/msr12-jen-slides.pdf)] [[abstract](papers/msr12-jen-abstract.txt)] [[full text](papers/msr12-jen.pdf)] [[bibtex](papers/msr12-jen-bibtex.txt)]
+       [[slides](papers/msr12-jen-slides.pdf)] [[abstract](papers/msr12-jen-abstract.txt)] [[bibtex](papers/msr12-jen-bibtex.txt)]
 
  1. **Preventing Arithmetic Overflows in Alloy** <br/>
     A. Milicevic, and D. Jackson
@@ -166,7 +187,7 @@ simplify building complex software that is correct by design.
  1. **Generating Test Inputs for Fault-Tree Analyzers using Imperative Predicates** <br/>
     S.Misailovic, A.Milicevic, S.Khurshid, D.Marinov <br/>
     [STEP 07](http://www.cs.memphis.edu/~vrus/STEP/) Memphis, TN, USA; May 2007 <br/>
-    [[abstract](papers/step07-aft-abstract.txt)] [[full text](papers/step07-aft.pdf)] [[bibtex](papers/step07-aft-bibtex.txt)]
+    [[abstract](papers/step07-aft-abstract.txt)] [[bibtex](papers/step07-aft-bibtex.txt)]
 
 ## Education
 
@@ -186,8 +207,8 @@ simplify building complex software that is correct by design.
 
 | title                                     | company                                                        | job description                                                                                                                                                                                        | date                              |
 |-------------------------------------------|----------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------|
-| Founding Software Engineer                         | Cubist                       | Secure cryptographic key management for web3                                                                                                   | Sep&nbsp;2022 <br/> Oct&nbsp;2026
-| Software Engineer                         | [Microsoft][MSFT],<br/> Redmond, WA, USA                       | Developing a modern build system enabling fast, distributed, reliable, cacheable, incremental builds                                                                                                   | Aug&nbsp;2015 <br/> Sep&nbsp;2022       |
+| Founding Engineer                         | [Cubist](https://cubist.dev)                                   | Hardware-backed, non-custodial key management platform (CubeSigner) built in Rust on AWS Nitro Enclaves; declarative policy engine, type-enforced security checks, monitoring and alerting; led enterprise customer integrations; managed two engineering teams | Sep&nbsp;2022 <br/> Oct&nbsp;2026 |
+| Software Engineer II, Senior, Principal   | [Microsoft][MSFT],<br/> Redmond, WA, USA | Tech lead for Linux in a distributed build-acceleration service; process sandboxing (Linux, macOS) and filesystem virtualization (Linux); contributor to BuildXL, the build engine used for Windows and Office | Aug&nbsp;2015 <br/> Sep&nbsp;2022 |
 | Research Intern                           | [Microsoft&nbsp;Research][MSR],<br/> Redmond, WA, USA          | Program synthesis from declarative first-order specifications                                                                                                                                          | Jun&nbsp;2011 <br/> Aug&nbsp;2011 |
 | Research Intern                           | [Microsoft&nbsp;Research][MSRUK],<br/> Cambridge, UK                 | Bounded model checking using SMT and Theory of Lists (with application to analysis and execution of Live Sequence Charts)                                                                              | Jun&nbsp;2009 <br/> Aug&nbsp;2009 |
 | Software Engineer                         | [Serbian Object Laboratories][SOL],<br/> Belgrade, Serbia      | Developing a web-based enterprise information system using WebWork, Java Servlets, SOAP, JSP, HTML, CSS, JS, AJAX, Sybase IQ                                                                           | Mar&nbsp;2006 <br/> Aug&nbsp;2008 |
