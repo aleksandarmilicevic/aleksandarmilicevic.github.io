@@ -1,7 +1,7 @@
 # Aleksandar Milicevic Home Page
 
 
-| ![Avatar](https://secure.gravatar.com/avatar/0296bebd289ed689eb0074321bf14214?s=200) | **Name:** <br/> **Education:** <br/> **Occupation:** <br/> **CV:** <br/> **Email:** <br/> **Links:** | Aleksandar Milicevic <br/> Ph.D. in Computer Science from [MIT](http://mit.edu) <br> Previously Founding Engineer at [Cubist](https://cubist.dev) <br/> [milicevic-cv.pdf](milicevic-cv.pdf) <br/> [aca.milicevic@gmail.com](mailto:aca.milicevic@gmail.com) <br/> [DBLP](http://www.informatik.uni-trier.de/~ley/pers/hd/m/Milicevic:Aleksandar.html), [Google Scholar](http://scholar.google.com/citations?user=_zVXPEAAAAAJ), [LinkedIn](http://www.linkedin.com/in/aleksandarmilicevic), [GitHub](https://github.com/aleksandarmilicevic) |
+| ![Avatar](https://secure.gravatar.com/avatar/0296bebd289ed689eb0074321bf14214?s=200) | **Name:** <br/> **Education:** <br/> **Occupation:** <br/> **CV:** <br/> **Email:** <br/> **Links:** | Aleksandar Milicevic <br/> Ph.D. in Computer Science from [MIT](http://mit.edu) <br> Previously Founding Engineer at [Cubist](https://cubist.dev) <br/> [milicevic-cv.pdf](milicevic-cv.pdf) <br/> [aca.milicevic@gmail.com](mailto:aca.milicevic@gmail.com) <br/> [DBLP](https://dblp.org/pid/74/1958.html), [Google Scholar](http://scholar.google.com/citations?user=_zVXPEAAAAAJ), [LinkedIn](http://www.linkedin.com/in/aleksandarmilicevic), [GitHub](https://github.com/aleksandarmilicevic) |
 
 
 ## About Me
