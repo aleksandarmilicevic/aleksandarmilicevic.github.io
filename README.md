@@ -217,12 +217,12 @@ simplify building complex software that is correct by design.
 | Windows Server 2003 Sys Admin (part-time) | [School of Electrical Engineering][ETF],<br/> Belgrade, Serbia | Maintenance and administration of a small computer network (30 client computers under Windows XP operating system and one server computer under Windows 2003 Server) for the lab and teaching purposes | Nov&nbsp;2005 <br/> Feb&nbsp;2007 |
 | Software Development Intern               | [Serbian Object Laboratories][SOL],<br/> Belgrade, Serbia      | Model driven development of Object Oriented Information Systems                                                                                                                                        | Jul&nbsp;2005 <br/> Aug&nbsp;2005 |
 
-[MSFT]: http://microsoft.com
-[MSR]: http://research.microsoft.com/en-us/labs/redmond/default.aspx
-[MSRUK]: http://research.microsoft.com/en-us/labs/cambridge/default.aspx
-[MIT]: http://mit.edu
-[MITEECS]: http://eecsweb.mit.edu
+[MSFT]: https://www.microsoft.com/en-us
+[MSR]: https://www.microsoft.com/en-us/research/lab/microsoft-research-redmond
+[MSRUK]: https://www.microsoft.com/en-us/research/lab/microsoft-research-cambridge
+[MIT]: https://web.mit.edu
+[MITEECS]: https://www.eecs.mit.edu
 [SOL]: http://www.sol.rs/
-[BUN]: http://www.bg.ac.rs/en_index.php
-[ETF]: http://www.etf.bg.ac.rs/index.php?lang=en
-[UIUC]: http://www.uiuc.edu/
+[BUN]: https://www.bg.ac.rs/home
+[ETF]: https://www.etf.bg.ac.rs/en
+[UIUC]: https://illinois.edu
